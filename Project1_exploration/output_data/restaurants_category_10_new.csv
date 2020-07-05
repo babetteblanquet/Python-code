@@ -1,0 +1,501 @@
+,Restaurant_id,Name,Locality,Address,City,Latitude,Longitude,Zip Code,Cuisines,Price Range,Average Cost for two,User Rating,Rating Text,Votes,all_reviews_count
+0,16608092,Nino's - Victor Harbor,Victor Harbor,"17 Albert Pl, Victor Harbor",Victor Harbor,-35.5556980000,138.6228330000,5211,"Italian, Pizza",2,20,4.9,Excellent,110,66
+1,16605070,Port Campbell Hotel,Port Campbell,"40 Lord St, Port Campbell",Port Campbell,-38.6192670000,142.9960480000,3269,"Bar Food, Modern Australian",2,20,4.9,Excellent,63,37
+2,16609632,Muse Restaurant and Cafe,Pokolbin,"1 Broke Rd, Pokolbin",Pokolbin,-32.7732660000,151.3118130000,2320,Modern Australian,4,25000017,4.9,Excellent,177,84
+3,16609867,Famous Berry Donut Van,Berry,"73 Queen St, Berry",Berry,-34.7749810000,150.6948920000,2535,Desserts,1,7,4.9,Excellent,144,79
+4,16605794,Funkey Monkey,Lakes Entrance,"26 Myer street, Lakes Entrance",Lakes Entrance,-37.8783865000,147.9942247000,3909,"Breakfast, Coffee and Tea",1,7,4.9,Excellent,109,60
+5,16585905,Tipo 00,CBD,"361 Little Bourke Street, CBD, Melbourne",Melbourne,-37.8135277429,144.9619733915,3000,Italian,4,150,4.9,Excellent,1927,717
+6,18243565,Ahdoo's,Lal Chowk,"Lal Chowk Market, Residency Road, Srinagar",Srinagar,34.0723700762,74.8190141469,,"South Indian, North Indian, Kashmiri",2,700,4.9,Excellent,180,55
+7,16944931,Menas Tex-Mex Grill  Cantina,Carrollton,"2810 East Trinity Mills Road, Carrollton 75006",Carrollton,32.9870500000,-96.8531700000,75006,Tex-Mex,2,40,4.9,Excellent,115,33
+8,16604448,Rubens Hepburn,Hepburn Springs,"70 Main Road,, Hepburn Springs",Hepburn Springs,-37.3168790000,144.1380570000,3461,"Mediterranean, Pizza, Seafood",3,30,4.9,Excellent,340,180
+9,16606021,Stockpot,Tawonga South,"231 Kiewa Valley Hwy, Tawonga South",Tawonga South,-36.7377750000,147.1604390000,03698,"Pizza, Tapas, Modern Australian",2,20,4.9,Excellent,42,15
+10,16604360,The Stanley Pub,Stanley,"6-12 Myrtleford-Stanley Rd, Stanley, Stanley",Stanley,-36.4049360000,146.7536670000,3747,Australian,4,90,4.9,Excellent,61,30
+11,16606229,Otway NouriShed,Ferguson,"3810 Colac-Lavers Hill Rd, Ferguson",Ferguson,-38.6293250000,143.5238820000,03237,"Coffee and Tea, Sandwich",1,7,4.9,Excellent,54,24
+12,16606058,Mount Macedon Hotel,Mount Macedon,"694 Mt Macedon Rd, Mt Macedon, Mount Macedon, Mount Macedon",Mount Macedon,-37.3897352000,144.5959105000,3441,Modern Australian,3,30,4.9,Excellent,95,56
+13,17559675,Superfly Martini Bar & Grill,Brookings,"623 Memory Lane, Brookings 97415",Brookings,42.0492509000,-124.2810096000,97415,"American, Breakfast, Burger",2,25,4.9,Excellent,61,36
+14,16611093,Spice Den,Casuarina,"9 Dianella Dr, Casuarina",Casuarina,-28.2950570000,153.5724900000,02487,Thai,2,20,4.9,Excellent,86,51
+15,16611253,Bernie's Diner,Moss Vale,"402-404 Argyle St, Moss Vale",Moss Vale,-34.5500913000,150.3712602000,2577,"Burger, Diner",1,7,4.9,Excellent,58,33
+16,16604747,Fyansford Hotel,Fyansford,"67 Hyland St, Fyansford",Fyansford,-38.1422630000,144.3100570000,3221,"Bar Food, Modern Australian",2,20,4.9,Excellent,62,33
+17,17350306,Bar-B-Q Bill's,Chiefland,1901 North Young Boulevard 32626,Chiefland,29.4973800000,-82.8682100000,32626,BBQ,1,10,4.9,Excellent,42,25
+18,16605444,King River Cafe,Oxley,"1143 Snow Rd, Oxley",Oxley,-36.4431930000,146.3820330000,3678,Modern Australian,3,30,4.9,Excellent,47,23
+19,16604403,The Corner Hotel,Alexandra,"65 Grant Street, Alexandra",Alexandra,-37.1924360000,145.7098390000,03714,Pub Food,2,20,4.9,Excellent,56,34
+20,16613131,St Bernards Hotel,Mount Tamborine,"101 Alpine Terrace, Mount Tamborine",Mount Tamborine,-27.9687858000,153.1960687000,4272,Modern Australian,3,30,4.9,Excellent,43,27
+21,16606579,Le Peche Gourmand,Creswick,"69a Albert St, Creswick",Creswick,-37.4238470000,143.8943650000,3363,"Coffee and Tea, French",1,7,4.9,Excellent,59,25
+22,17656764,Koffee Kup,Hico,"300 2nd St, Hico 76457",Hico,31.9827397000,-98.0281305000,76457,"Breakfast, Burger, Desserts",1,10,4.9,Excellent,46,23
+23,16604386,Ripples on the Bay,Rippleside,"42 Bell Parade, Rippleside, Rippleside",Rippleside,-38.1277618000,144.3567780000,3220,"Modern Australian, Cafe Food",3,30,4.9,Excellent,95,54
+24,18482498,Tomahawks,Bright,15 Camp St Bright,Bright,0.0000000000,0.0000000000,,Bar Food,4,40,4.9,Excellent,122,67
+25,16612028,The Belle General,East Ballina,"12 Shelly Beach Rd, East Ballina",East Ballina,-28.8626630000,153.5933310000,2478,Cafe Food,2,20,4.9,Excellent,44,27
+26,18487792,Thunder Road Barracuda,"Barracuda Beach Resort, Khor Al Baida","Khor Al Baida, Umm al Quwain",Umm al Quwain,25.5876180000,55.6520860000,,Italian,4,250,4.9,Excellent,100,62
+27,16604999,The Forge Pizzeria,Alfredton,"1771 Sturt St, Alfredton",Alfredton,-37.5507020000,143.8056190000,3350,"Italian, Pizza",2,20,4.9,Excellent,190,71
+28,16606731,Porter Republic,San Remo,"117 Marine Parade, San Remo",San Remo,-38.5206972000,145.3701046000,3925,Modern Australian,2,20,4.9,Excellent,200,119
+29,16605077,The Loaf and Lounge,Camperdown,"223 Manifold St, Camperdown",Camperdown,-38.2316513000,143.1448800000,3260,Coffee and Tea,1,7,4.9,Excellent,41,19
+30,16604773,Parker Pies,Rutherglen,"88 Main St Rutherglen, Rutherglen",Rutherglen,-36.0547680000,146.4608760000,3685,Others,1,7,4.9,Excellent,78,32
+31,16586014,Minamishima,Richmond,"4 Lord Street, Richmond, Melbourne, VIC",Melbourne,-37.8198314176,145.0051938370,3121,"Japanese, Sushi",4,450,4.9,Excellent,747,290
+32,18386758,Hotel Tokas,Neemrana,"NH-8, Delhi - Jaipur Highway, Japanese Zone, Neemrana, Alwar",Neemrana,27.9781597491,76.4006208055,,North Indian,2,800,4.9,Excellent,376,40
+33,16605207,The Harrietville Snowline Hotel,Harrietville,"237 Great Alpine Rd, Harrietville, Harrietville",Harrietville,-36.8937420000,147.0633850000,3741,"Bar Food, Steak",4,60,4.9,Excellent,55,29
+34,16605212,Tahbilk Cafe,Nagambie,"254 Oneils Rd, Nagambie",Nagambie,-36.8267840000,145.0937810000,3608,"Coffee and Tea, Modern Australian",2,20,4.9,Excellent,50,29
+35,16605023,Coffee Cartel,Breakwater,"35 Leather St, Breakwater",Breakwater,-38.1856090000,144.3736480000,3219,"Breakfast, Burger, Coffee and Tea",1,7,4.9,Excellent,120,58
+36,17496199,Velvet Cream,Hernando,"2290 Hwy 51 S, Hernando 38632",Hernando,34.8241000000,-89.9941000000,38632,"Burger, Desserts, Fast Food",1,10,4.9,Excellent,98,31
+37,17669374,Cafe Diablo,Torrey,599 West. Main Street. 84775,Torrey,38.2960760000,-111.4382970000,84775,Southwestern,3,40,4.9,Excellent,55,28
+38,16608736,Goodfellas Cafe,Burnside,"147/152 Bussell Hwy, Margaret River",Burnside,-33.9531670000,115.0736940000,6285,"Italian, Pizza",3,30,4.9,Excellent,88,48
+39,16610069,Grill'd - The Junction,The Junction,"Eastpoint Centre, 50 Glebe Road, The Junction",The Junction,-32.9386180000,151.7609860000,2291,Burger,2,20,4.9,Excellent,70,14
+40,17554599,Click's Steak House,Pawnee,"409 Harrison St, Pawnee 74058",Pawnee,36.3382000000,-96.8012000000,74058,"American, Burger, Steak",2,25,4.9,Excellent,43,16
+41,16606275,The Kangaroo Hotel,Maldon,"89 High St, Maldon",Maldon,-36.9973320000,144.0680870000,3463,Australian,2,20,4.9,Excellent,52,32
+42,18615392,WAKI Japanese BBQ Dining,Thamrin,"Lantai 1, Jl. Tanjung Karang No. 5, Thamrin, Jakarta",Jakarta,-6.2011150000,106.8223000000,,"Japanese, BBQ",3,300000,4.9,Excellent,2932,1414
+43,16604414,Chocolate Mill,Mount Franklin,"5451 Midland Hwy, Mount Franklin",Mount Franklin,-37.2814870000,144.1521300000,3461,Desserts,1,7,4.9,Excellent,111,51
+44,201897,Zuma,DIFC,"Podium Level, Gate Village 6, Sheikh Zayed Road, DIFC, Dubai",Dubai,25.2139531817,55.2836128324,0,"Japanese, Sushi, Salad",4,610,4.9,Excellent,1923,828
+45,17492414,White Grill,Nevada,"200 N Commercial St, Nevada 64772",Nevada,37.8391000000,-94.3491000000,64772,"Burger, Coffee and Tea, Diner",1,10,4.9,Excellent,46,17
+46,17276345,MK's Asian Kitchen,Opelika,"2490 Enterprise Dr, Opelika 36801",Opelika,32.6205650000,-85.4092750000,36801,"Asian, Chinese",1,10,4.9,Excellent,95,38
+47,16607119,Baringo Food & Wine Co.,New Gisborne,"Shop 1 283 Station Rd, New Gisborne",New Gisborne,-37.4593428000,144.5980671000,3438,"Coffee and Tea, Australian",2,20,4.9,Excellent,64,37
+48,16643277,Saigon Moon,Black Diamond,"130 Government Road, Black Diamond T0L0H0",Black Diamond,50.6872963000,-114.2325731000,T0L0H0,"Vietnamese, Beverages",2,25,4.9,Excellent,43,18
+49,16607294,The Winery Kitchen,Seymour,"1 Emily St, Seymour, Seymour",Seymour,-37.0224530000,145.1147290000,3660,"Australian, Desserts, Italian",2,20,4.9,Excellent,62,29
+50,16606526,Elevation 423 Bar & Cafe,Marysville,"41 Murchison St, Marysville",Marysville,-37.5108450000,145.7450260000,3779,"Coffee and Tea, Bar Food, Australian",4,75,4.9,Excellent,80,51
+51,17553244,Wong's Restaurant,Clinton,"712 Opal Ave, Clinton 73601",Clinton,35.5065000000,-98.9687000000,73601,"American, Chinese",1,10,4.9,Excellent,65,22
+52,16608129,Port Elliot Bakery,Port Elliot,"31 North Terrace, Port Elliot",Port Elliot,-35.5306780000,138.6825710000,5212,Others,1,7,4.9,Excellent,96,34
+53,16604764,The Black Spur Inn,Narbethong,"436 Maroondah Highway, Narbethong",Narbethong,-37.5572240000,145.6581270000,3778,Modern Australian,3,30,4.9,Excellent,66,40
+54,16605902,Pik Nik,Swan Bay,"1195 Queenscliff Rd, Swan Bay",Swan Bay,-38.2267968481,144.6351877972,3225,"Coffee and Tea, Desserts, Modern Australian",2,20,4.9,Excellent,108,45
+55,16606711,The Driftwood Cafe,Ocean Grove,"64 The Terrace, Ocean Grove, Ocean Grove",Ocean Grove,-38.2678719000,144.5222505000,3226,Cafe Food,2,20,4.9,Excellent,156,98
+56,17656346,Del Norte,Godley,"101 E Hwy 171, Godley 76044",Godley,32.4485140000,-97.5341830000,76044,"Mexican, Southwestern, Tex-Mex",1,10,4.9,Excellent,50,16
+57,17417691,3rd & Main,Aurora,"223 Third St, Aurora 47001",Aurora,39.0548510000,-84.8994390000,47001,"American, BBQ, Burger",3,40,4.9,Excellent,97,70
+58,16608061,Aquacafe,Goolwa South,"94 Barrage Rd, Goolwa South",Goolwa South,-35.5109680000,138.7828729000,5214,"Coffee and Tea, Seafood",2,20,4.9,Excellent,52,21
+59,17554878,Wild Horse Mountain Bar-B-Que,Sallisaw,"S 4612 Rd, Sallisaw 74955",Sallisaw,35.4058420000,-94.8042870000,74955,BBQ,1,10,4.9,Excellent,77,28
+60,17656118,Mary's Tacos,Kerrville,"1616 Broadway, Kerrville 78028",Kerrville,30.0367920000,-99.1345590000,78028,"Breakfast, Mexican",1,10,4.9,Excellent,60,20
+61,16609855,Margan Restaurant,Broke,"1238 Milbrodale Rd, Broke",Broke,-32.7541230000,151.0956620000,2330,Modern Australian,3,30,4.9,Excellent,51,29
+62,18702883,Landour Bakehouse,Landour,"Shop 152, Sisters Bazaar, Landour Cantt",Mussoorie,30.4568987189,78.1020792201,,"Cafe, Bakery, Desserts",2,500,4.9,Excellent,174,91
+63,16604423,Source Dining,Kyneton,"72 Piper St, Kyneton, Kyneton",Kyneton,-37.2439460000,144.4485630000,,"Modern Australian, Australian",4,100,4.9,Excellent,193,83
+64,16855097,Cafe Citti,Kenwood,"9049 Sonoma Highway, Kenwood 95452",Kenwood,38.4181222222,-122.5502250000,95452,Italian,2,40,4.9,Excellent,58,11
+65,17280355,Dusit Thai Cuisine,Mountain Home,"920 Hwy 62 E, Mountain Home 72653",Mountain Home,36.3487800000,-92.3728150000,72653,"Asian, Thai",1,10,4.9,Excellent,98,46
+66,17218986,Maggie's Town Tavern,Little Falls,"10 Van Ness Ave, Little Falls 07424",Little Falls,40.8805720000,-74.2230000000,07424,"Pizza, Bar Food, Steak",2,25,4.9,Excellent,47,19
+67,16604818,Brandy Creek Wines & View Cafe,Drouin East,"570 Buln Buln Rd, Drouin East",Drouin East,-38.1076200000,145.8977050000,3818,"Spanish, Tapas",2,20,4.9,Excellent,67,38
+68,16609287,Gorges Cafe,Kalbarri,"Shop 6, Marina Complex, Grey Street, Kalbarri",Kalbarri,-27.7021074000,114.1679929000,6536,"Breakfast, Modern Australian",2,20,4.9,Excellent,47,29
+69,16608105,Victory Hotel,Sellicks Beach,"Main South Road, Sellicks Beach",Sellicks Beach,-35.3385390000,138.4643100000,5174,Pub Food,2,20,4.9,Excellent,102,56
+70,17277886,Craig Brothers Cafe,De Valls Bluff,"15 W Walnut, De Valls Bluff 72041",De Valls Bluff,34.7216000000,-91.5348000000,72041,BBQ,1,10,4.9,Excellent,72,20
+71,16608261,The Barn Steakhouse,Mount Gambier,"747 Glenelg River Rd, Mt Gambier, Mount Gambier",Mount Gambier,-37.8195480286,140.6435394287,05290,Steak,2,20,4.9,Excellent,112,56
+72,12200008,Atticus Finch,Rotorua Central,"1106 Tutanekai Street, Rotorua Central, Rotorua 3010",Rotorua,-38.1331260000,176.2517670000,3010,"Mediterranean, European",3,65,4.9,Excellent,66,45
+73,17526921,Thai Spice & Sushi Bar,Albemarle,"1621 East Main Street, Albemarle 28001",Albemarle,35.3505250000,-80.1707630000,28001,"Japanese, Sushi, Thai",1,10,4.9,Excellent,52,26
+74,16605677,Jack Rabbit Restaurant,Bellarine,"85 McAdams Lane, Bellarine",Bellarine,-38.1369474000,144.5940460000,3221,Modern Australian,3,30,4.9,Excellent,161,104
+75,17563040,La Tarasca,Centralia,"1001 W Main St, Centralia 98531",Centralia,46.7187000000,-122.9655000000,98531,Mexican,1,10,4.9,Excellent,121,41
+76,17483280,Clyde's Drive-In,St Ignace,"3 US 2 W, St Ignace 49781",St Ignace,45.8585570000,-84.7195000000,49781,"American, Burger",1,10,4.9,Excellent,68,25
+77,16604836,The Outpost Retreat & Toolshed bar,Noojee,"38 Loch Valley Road, Noojee",Noojee,-37.8911980000,146.0037790000,3833,Bar Food,2,20,4.9,Excellent,48,25
+78,16608088,Maggie Beer's Farm Shop,Nuriootpa,"Maggie Beers Farm End Of Pheasant Farm Rd, Nuriootpa",Nuriootpa,-34.4824980000,138.9747160000,5355,Modern Australian,2,20,4.9,Excellent,258,99
+79,17545658,Toni's Courtyard Cafe & Bakery,Merced,"516 W 18th St, Merced 95340",Merced,37.3024530000,-120.4832000000,95340,"Breakfast, Sandwich",2,25,4.9,Excellent,48,17
+80,16608168,Pipers of Penola,Penola,"58 Riddoch St, Penola",Penola,-37.3797649000,140.8386923000,5277,Modern Australian,3,30,4.9,Excellent,44,20
+81,16605776,du Fermier,Trentham,"42 High Street, Trentham",Trentham,-37.3885278000,144.3220217000,3458,"Coffee and Tea, French, International",2,20,4.9,Excellent,95,47
+82,5601628,Laffah Cafeteria - كافتيريا لفاح,Al Majaz,"Ground Floor, Al Hikma Building, Street 29, Al Majaz, Sharjah",Sharjah,25.3239804487,55.3806075454,,"Fast Food, Arabian, Middle Eastern",1,35,4.9,Excellent,910,369
+83,17410322,The Shanty Restaurant,Wadsworth,"38995 N US Highway 41, Wadsworth 60083",Wadsworth,42.4288000000,-87.9378000000,60083,"American, Burger, Steak",3,40,4.9,Excellent,55,17
+84,16608174,Skillogalee Winery and Restaurant,Spring Gully,"Trevarrick Rd, Sevenhill, Clare Valley, Spring Gully",Spring Gully,-33.9111630000,138.6150360000,5453,Others,3,30,4.9,Excellent,54,27
+85,16607273,Bastoni Pizzeria,Myrtleford,"Entrance On Great Alpine Rd Next To The Myrtleford Piazza, Myrtleford, Myrtleford",Myrtleford,-36.5607870000,146.7247800000,3737,Pizza,2,20,4.9,Excellent,46,28
+86,18692874,60's Beatles Cafe,Tapovan,"Paidal Marg, Laxman Jhula, Tapovan, Rishikesh",Rishikesh,30.1270520312,78.3262113109,,"Cafe, Italian, Continental, North Indian, Asian",2,600,4.9,Excellent,201,104
+87,16609926,Rose's Cafe,Goulburn,"10 Montague St, Goulburn",Goulburn,-34.7544490000,149.7174480000,,"Breakfast, Coffee and Tea",1,7,4.9,Excellent,76,35
+88,16605284,Tomo Modern Japanese,Inverloch,"1/23 A'Beckett Street, Inverloch",Inverloch,-38.6337090000,145.7252810000,3996,Japanese,3,30,4.9,Excellent,95,42
+89,16608060,Appellation,Marananga,"Seppeltsfield Road, Marananga",Marananga,-34.4874960000,138.9465680000,5352,Modern Australian,1,0,4.9,Excellent,97,36
+90,17675919,Up For Breakfast,Manchester Center,"4933 Main St, Manchester Center 05255",Manchester Center,43.1772580000,-73.0561440000,05255,Breakfast,1,10,4.9,Excellent,46,14
+91,16609749,Harvest Cafe,Newrybar,"18 Old Pacific Hwy, Newrybar",Newrybar,-28.7213040000,153.5304410000,2479,Modern Australian,3,30,4.9,Excellent,211,117
+92,16614411,The Green Ant Cantina,Parramatta Park,"183 Bunda Street, Parramatta Park",Parramatta Park,-16.9262790000,145.7705830000,04870,"Mexican, Spanish",3,30,4.9,Excellent,44,13
+93,16605021,Timboon Railway Shed Distillery Restaurant,Timboon,"1 Bailey St, Timboon",Timboon,-38.4842614000,142.9785745000,3268,"Coffee and Tea, Desserts, Modern Australian",2,20,4.9,Excellent,85,50
+94,16647187,From Scratch A Mountain Kitchen,Fairmont Hot Springs,"8 5019 Fairmont Resort Rd, Fairmont Hot Springs",Fairmont Hot Springs,50.3356159000,-115.8543552000,,"American, Pizza, Sandwich",2,25,4.9,Excellent,43,22
+95,17648660,Dairy Bar,Brenham,"2703 Stringer St, Brenham 77833",Brenham,30.1440320000,-96.3815390000,77833,"American, Burger, Desserts",1,10,4.9,Excellent,42,13
+96,16608102,Star of Greece,Port Willunga,"1 The Esplanade, Port Willunga",Port Willunga,-35.2474710000,138.4688260000,5173,"Mediterranean, Seafood, Modern Australian",3,30,4.9,Excellent,164,85
+97,16604911,Bridge Road Brewers,Beechworth,"Old Coach House 50 Ford St, Beechworth, Beechworth",Beechworth,-36.3604390000,146.6858520000,3747,"Pizza, Bar Food",2,20,4.9,Excellent,184,99
+98,16609847,Byblos Restaurant & Bar,Gosford,"124 Donnison St, Gosford",Gosford,-33.4269370000,151.3428800000,2250,Middle Eastern,2,20,4.9,Excellent,46,22
+99,16658461,That Little Place By the Lights,Huntsville,"76 Main St E, Huntsville P1H2B8",Huntsville,45.3270893000,-79.2167492000,P1H2B8,"Coffee and Tea, Desserts, Italian",2,25,4.9,Excellent,63,35
+100,16608092,Nino's - Victor Harbor,Victor Harbor,"17 Albert Pl, Victor Harbor",Victor Harbor,-35.5556980000,138.6228330000,5211,"Italian, Pizza",2,20,4.9,Excellent,110,66
+101,16605070,Port Campbell Hotel,Port Campbell,"40 Lord St, Port Campbell",Port Campbell,-38.6192670000,142.9960480000,3269,"Bar Food, Modern Australian",2,20,4.9,Excellent,63,37
+102,16609632,Muse Restaurant and Cafe,Pokolbin,"1 Broke Rd, Pokolbin",Pokolbin,-32.7732660000,151.3118130000,2320,Modern Australian,4,25000017,4.9,Excellent,177,84
+103,16609867,Famous Berry Donut Van,Berry,"73 Queen St, Berry",Berry,-34.7749810000,150.6948920000,2535,Desserts,1,7,4.9,Excellent,144,79
+104,16605794,Funkey Monkey,Lakes Entrance,"26 Myer street, Lakes Entrance",Lakes Entrance,-37.8783865000,147.9942247000,3909,"Breakfast, Coffee and Tea",1,7,4.9,Excellent,109,60
+105,16585905,Tipo 00,CBD,"361 Little Bourke Street, CBD, Melbourne",Melbourne,-37.8135277429,144.9619733915,3000,Italian,4,150,4.9,Excellent,1927,717
+106,18243565,Ahdoo's,Lal Chowk,"Lal Chowk Market, Residency Road, Srinagar",Srinagar,34.0723700762,74.8190141469,,"South Indian, North Indian, Kashmiri",2,700,4.9,Excellent,180,55
+107,16944931,Menas Tex-Mex Grill  Cantina,Carrollton,"2810 East Trinity Mills Road, Carrollton 75006",Carrollton,32.9870500000,-96.8531700000,75006,Tex-Mex,2,40,4.9,Excellent,115,33
+108,16604448,Rubens Hepburn,Hepburn Springs,"70 Main Road,, Hepburn Springs",Hepburn Springs,-37.3168790000,144.1380570000,3461,"Mediterranean, Pizza, Seafood",3,30,4.9,Excellent,340,180
+109,16606021,Stockpot,Tawonga South,"231 Kiewa Valley Hwy, Tawonga South",Tawonga South,-36.7377750000,147.1604390000,03698,"Pizza, Tapas, Modern Australian",2,20,4.9,Excellent,42,15
+110,16604360,The Stanley Pub,Stanley,"6-12 Myrtleford-Stanley Rd, Stanley, Stanley",Stanley,-36.4049360000,146.7536670000,3747,Australian,4,90,4.9,Excellent,61,30
+111,16606229,Otway NouriShed,Ferguson,"3810 Colac-Lavers Hill Rd, Ferguson",Ferguson,-38.6293250000,143.5238820000,03237,"Coffee and Tea, Sandwich",1,7,4.9,Excellent,54,24
+112,16606058,Mount Macedon Hotel,Mount Macedon,"694 Mt Macedon Rd, Mt Macedon, Mount Macedon, Mount Macedon",Mount Macedon,-37.3897352000,144.5959105000,3441,Modern Australian,3,30,4.9,Excellent,95,56
+113,17559675,Superfly Martini Bar & Grill,Brookings,"623 Memory Lane, Brookings 97415",Brookings,42.0492509000,-124.2810096000,97415,"American, Breakfast, Burger",2,25,4.9,Excellent,61,36
+114,16611093,Spice Den,Casuarina,"9 Dianella Dr, Casuarina",Casuarina,-28.2950570000,153.5724900000,02487,Thai,2,20,4.9,Excellent,86,51
+115,16611253,Bernie's Diner,Moss Vale,"402-404 Argyle St, Moss Vale",Moss Vale,-34.5500913000,150.3712602000,2577,"Burger, Diner",1,7,4.9,Excellent,58,33
+116,16604747,Fyansford Hotel,Fyansford,"67 Hyland St, Fyansford",Fyansford,-38.1422630000,144.3100570000,3221,"Bar Food, Modern Australian",2,20,4.9,Excellent,62,33
+117,17350306,Bar-B-Q Bill's,Chiefland,1901 North Young Boulevard 32626,Chiefland,29.4973800000,-82.8682100000,32626,BBQ,1,10,4.9,Excellent,42,25
+118,16605444,King River Cafe,Oxley,"1143 Snow Rd, Oxley",Oxley,-36.4431930000,146.3820330000,3678,Modern Australian,3,30,4.9,Excellent,47,23
+119,16604403,The Corner Hotel,Alexandra,"65 Grant Street, Alexandra",Alexandra,-37.1924360000,145.7098390000,03714,Pub Food,2,20,4.9,Excellent,56,34
+120,16613131,St Bernards Hotel,Mount Tamborine,"101 Alpine Terrace, Mount Tamborine",Mount Tamborine,-27.9687858000,153.1960687000,4272,Modern Australian,3,30,4.9,Excellent,43,27
+121,16606579,Le Peche Gourmand,Creswick,"69a Albert St, Creswick",Creswick,-37.4238470000,143.8943650000,3363,"Coffee and Tea, French",1,7,4.9,Excellent,59,25
+122,17656764,Koffee Kup,Hico,"300 2nd St, Hico 76457",Hico,31.9827397000,-98.0281305000,76457,"Breakfast, Burger, Desserts",1,10,4.9,Excellent,46,23
+123,16604386,Ripples on the Bay,Rippleside,"42 Bell Parade, Rippleside, Rippleside",Rippleside,-38.1277618000,144.3567780000,3220,"Modern Australian, Cafe Food",3,30,4.9,Excellent,95,54
+124,18482498,Tomahawks,Bright,15 Camp St Bright,Bright,0.0000000000,0.0000000000,,Bar Food,4,40,4.9,Excellent,122,67
+125,16612028,The Belle General,East Ballina,"12 Shelly Beach Rd, East Ballina",East Ballina,-28.8626630000,153.5933310000,2478,Cafe Food,2,20,4.9,Excellent,44,27
+126,18487792,Thunder Road Barracuda,"Barracuda Beach Resort, Khor Al Baida","Khor Al Baida, Umm al Quwain",Umm al Quwain,25.5876180000,55.6520860000,,Italian,4,250,4.9,Excellent,100,62
+127,16604999,The Forge Pizzeria,Alfredton,"1771 Sturt St, Alfredton",Alfredton,-37.5507020000,143.8056190000,3350,"Italian, Pizza",2,20,4.9,Excellent,190,71
+128,16606731,Porter Republic,San Remo,"117 Marine Parade, San Remo",San Remo,-38.5206972000,145.3701046000,3925,Modern Australian,2,20,4.9,Excellent,200,119
+129,16605077,The Loaf and Lounge,Camperdown,"223 Manifold St, Camperdown",Camperdown,-38.2316513000,143.1448800000,3260,Coffee and Tea,1,7,4.9,Excellent,41,19
+130,16604773,Parker Pies,Rutherglen,"88 Main St Rutherglen, Rutherglen",Rutherglen,-36.0547680000,146.4608760000,3685,Others,1,7,4.9,Excellent,78,32
+131,16586014,Minamishima,Richmond,"4 Lord Street, Richmond, Melbourne, VIC",Melbourne,-37.8198314176,145.0051938370,3121,"Japanese, Sushi",4,450,4.9,Excellent,747,290
+132,18386758,Hotel Tokas,Neemrana,"NH-8, Delhi - Jaipur Highway, Japanese Zone, Neemrana, Alwar",Neemrana,27.9781597491,76.4006208055,,North Indian,2,800,4.9,Excellent,376,40
+133,16605207,The Harrietville Snowline Hotel,Harrietville,"237 Great Alpine Rd, Harrietville, Harrietville",Harrietville,-36.8937420000,147.0633850000,3741,"Bar Food, Steak",4,60,4.9,Excellent,55,29
+134,16605212,Tahbilk Cafe,Nagambie,"254 Oneils Rd, Nagambie",Nagambie,-36.8267840000,145.0937810000,3608,"Coffee and Tea, Modern Australian",2,20,4.9,Excellent,50,29
+135,16605023,Coffee Cartel,Breakwater,"35 Leather St, Breakwater",Breakwater,-38.1856090000,144.3736480000,3219,"Breakfast, Burger, Coffee and Tea",1,7,4.9,Excellent,120,58
+136,17496199,Velvet Cream,Hernando,"2290 Hwy 51 S, Hernando 38632",Hernando,34.8241000000,-89.9941000000,38632,"Burger, Desserts, Fast Food",1,10,4.9,Excellent,98,31
+137,17669374,Cafe Diablo,Torrey,599 West. Main Street. 84775,Torrey,38.2960760000,-111.4382970000,84775,Southwestern,3,40,4.9,Excellent,55,28
+138,16608736,Goodfellas Cafe,Burnside,"147/152 Bussell Hwy, Margaret River",Burnside,-33.9531670000,115.0736940000,6285,"Italian, Pizza",3,30,4.9,Excellent,88,48
+139,16610069,Grill'd - The Junction,The Junction,"Eastpoint Centre, 50 Glebe Road, The Junction",The Junction,-32.9386180000,151.7609860000,2291,Burger,2,20,4.9,Excellent,70,14
+140,17554599,Click's Steak House,Pawnee,"409 Harrison St, Pawnee 74058",Pawnee,36.3382000000,-96.8012000000,74058,"American, Burger, Steak",2,25,4.9,Excellent,43,16
+141,16606275,The Kangaroo Hotel,Maldon,"89 High St, Maldon",Maldon,-36.9973320000,144.0680870000,3463,Australian,2,20,4.9,Excellent,52,32
+142,18615392,WAKI Japanese BBQ Dining,Thamrin,"Lantai 1, Jl. Tanjung Karang No. 5, Thamrin, Jakarta",Jakarta,-6.2011150000,106.8223000000,,"Japanese, BBQ",3,300000,4.9,Excellent,2932,1414
+143,16604414,Chocolate Mill,Mount Franklin,"5451 Midland Hwy, Mount Franklin",Mount Franklin,-37.2814870000,144.1521300000,3461,Desserts,1,7,4.9,Excellent,111,51
+144,201897,Zuma,DIFC,"Podium Level, Gate Village 6, Sheikh Zayed Road, DIFC, Dubai",Dubai,25.2139531817,55.2836128324,0,"Japanese, Sushi, Salad",4,610,4.9,Excellent,1923,828
+145,17492414,White Grill,Nevada,"200 N Commercial St, Nevada 64772",Nevada,37.8391000000,-94.3491000000,64772,"Burger, Coffee and Tea, Diner",1,10,4.9,Excellent,46,17
+146,17276345,MK's Asian Kitchen,Opelika,"2490 Enterprise Dr, Opelika 36801",Opelika,32.6205650000,-85.4092750000,36801,"Asian, Chinese",1,10,4.9,Excellent,95,38
+147,16607119,Baringo Food & Wine Co.,New Gisborne,"Shop 1 283 Station Rd, New Gisborne",New Gisborne,-37.4593428000,144.5980671000,3438,"Coffee and Tea, Australian",2,20,4.9,Excellent,64,37
+148,16643277,Saigon Moon,Black Diamond,"130 Government Road, Black Diamond T0L0H0",Black Diamond,50.6872963000,-114.2325731000,T0L0H0,"Vietnamese, Beverages",2,25,4.9,Excellent,43,18
+149,16607294,The Winery Kitchen,Seymour,"1 Emily St, Seymour, Seymour",Seymour,-37.0224530000,145.1147290000,3660,"Australian, Desserts, Italian",2,20,4.9,Excellent,62,29
+150,16606526,Elevation 423 Bar & Cafe,Marysville,"41 Murchison St, Marysville",Marysville,-37.5108450000,145.7450260000,3779,"Coffee and Tea, Bar Food, Australian",4,75,4.9,Excellent,80,51
+151,17553244,Wong's Restaurant,Clinton,"712 Opal Ave, Clinton 73601",Clinton,35.5065000000,-98.9687000000,73601,"American, Chinese",1,10,4.9,Excellent,65,22
+152,16608129,Port Elliot Bakery,Port Elliot,"31 North Terrace, Port Elliot",Port Elliot,-35.5306780000,138.6825710000,5212,Others,1,7,4.9,Excellent,96,34
+153,16604764,The Black Spur Inn,Narbethong,"436 Maroondah Highway, Narbethong",Narbethong,-37.5572240000,145.6581270000,3778,Modern Australian,3,30,4.9,Excellent,66,40
+154,16605902,Pik Nik,Swan Bay,"1195 Queenscliff Rd, Swan Bay",Swan Bay,-38.2267968481,144.6351877972,3225,"Coffee and Tea, Desserts, Modern Australian",2,20,4.9,Excellent,108,45
+155,16606711,The Driftwood Cafe,Ocean Grove,"64 The Terrace, Ocean Grove, Ocean Grove",Ocean Grove,-38.2678719000,144.5222505000,3226,Cafe Food,2,20,4.9,Excellent,156,98
+156,17656346,Del Norte,Godley,"101 E Hwy 171, Godley 76044",Godley,32.4485140000,-97.5341830000,76044,"Mexican, Southwestern, Tex-Mex",1,10,4.9,Excellent,50,16
+157,17417691,3rd & Main,Aurora,"223 Third St, Aurora 47001",Aurora,39.0548510000,-84.8994390000,47001,"American, BBQ, Burger",3,40,4.9,Excellent,97,70
+158,16608061,Aquacafe,Goolwa South,"94 Barrage Rd, Goolwa South",Goolwa South,-35.5109680000,138.7828729000,5214,"Coffee and Tea, Seafood",2,20,4.9,Excellent,52,21
+159,17554878,Wild Horse Mountain Bar-B-Que,Sallisaw,"S 4612 Rd, Sallisaw 74955",Sallisaw,35.4058420000,-94.8042870000,74955,BBQ,1,10,4.9,Excellent,77,28
+160,17656118,Mary's Tacos,Kerrville,"1616 Broadway, Kerrville 78028",Kerrville,30.0367920000,-99.1345590000,78028,"Breakfast, Mexican",1,10,4.9,Excellent,60,20
+161,16609855,Margan Restaurant,Broke,"1238 Milbrodale Rd, Broke",Broke,-32.7541230000,151.0956620000,2330,Modern Australian,3,30,4.9,Excellent,51,29
+162,18702883,Landour Bakehouse,Landour,"Shop 152, Sisters Bazaar, Landour Cantt",Mussoorie,30.4568987189,78.1020792201,,"Cafe, Bakery, Desserts",2,500,4.9,Excellent,174,91
+163,16604423,Source Dining,Kyneton,"72 Piper St, Kyneton, Kyneton",Kyneton,-37.2439460000,144.4485630000,,"Modern Australian, Australian",4,100,4.9,Excellent,193,83
+164,16855097,Cafe Citti,Kenwood,"9049 Sonoma Highway, Kenwood 95452",Kenwood,38.4181222222,-122.5502250000,95452,Italian,2,40,4.9,Excellent,58,11
+165,17280355,Dusit Thai Cuisine,Mountain Home,"920 Hwy 62 E, Mountain Home 72653",Mountain Home,36.3487800000,-92.3728150000,72653,"Asian, Thai",1,10,4.9,Excellent,98,46
+166,17218986,Maggie's Town Tavern,Little Falls,"10 Van Ness Ave, Little Falls 07424",Little Falls,40.8805720000,-74.2230000000,07424,"Pizza, Bar Food, Steak",2,25,4.9,Excellent,47,19
+167,16604818,Brandy Creek Wines & View Cafe,Drouin East,"570 Buln Buln Rd, Drouin East",Drouin East,-38.1076200000,145.8977050000,3818,"Spanish, Tapas",2,20,4.9,Excellent,67,38
+168,16609287,Gorges Cafe,Kalbarri,"Shop 6, Marina Complex, Grey Street, Kalbarri",Kalbarri,-27.7021074000,114.1679929000,6536,"Breakfast, Modern Australian",2,20,4.9,Excellent,47,29
+169,16608105,Victory Hotel,Sellicks Beach,"Main South Road, Sellicks Beach",Sellicks Beach,-35.3385390000,138.4643100000,5174,Pub Food,2,20,4.9,Excellent,102,56
+170,17277886,Craig Brothers Cafe,De Valls Bluff,"15 W Walnut, De Valls Bluff 72041",De Valls Bluff,34.7216000000,-91.5348000000,72041,BBQ,1,10,4.9,Excellent,72,20
+171,16608261,The Barn Steakhouse,Mount Gambier,"747 Glenelg River Rd, Mt Gambier, Mount Gambier",Mount Gambier,-37.8195480286,140.6435394287,05290,Steak,2,20,4.9,Excellent,112,56
+172,12200008,Atticus Finch,Rotorua Central,"1106 Tutanekai Street, Rotorua Central, Rotorua 3010",Rotorua,-38.1331260000,176.2517670000,3010,"Mediterranean, European",3,65,4.9,Excellent,66,45
+173,17526921,Thai Spice & Sushi Bar,Albemarle,"1621 East Main Street, Albemarle 28001",Albemarle,35.3505250000,-80.1707630000,28001,"Japanese, Sushi, Thai",1,10,4.9,Excellent,52,26
+174,16605677,Jack Rabbit Restaurant,Bellarine,"85 McAdams Lane, Bellarine",Bellarine,-38.1369474000,144.5940460000,3221,Modern Australian,3,30,4.9,Excellent,161,104
+175,17563040,La Tarasca,Centralia,"1001 W Main St, Centralia 98531",Centralia,46.7187000000,-122.9655000000,98531,Mexican,1,10,4.9,Excellent,121,41
+176,17483280,Clyde's Drive-In,St Ignace,"3 US 2 W, St Ignace 49781",St Ignace,45.8585570000,-84.7195000000,49781,"American, Burger",1,10,4.9,Excellent,68,25
+177,16604836,The Outpost Retreat & Toolshed bar,Noojee,"38 Loch Valley Road, Noojee",Noojee,-37.8911980000,146.0037790000,3833,Bar Food,2,20,4.9,Excellent,48,25
+178,16608088,Maggie Beer's Farm Shop,Nuriootpa,"Maggie Beers Farm End Of Pheasant Farm Rd, Nuriootpa",Nuriootpa,-34.4824980000,138.9747160000,5355,Modern Australian,2,20,4.9,Excellent,258,99
+179,17545658,Toni's Courtyard Cafe & Bakery,Merced,"516 W 18th St, Merced 95340",Merced,37.3024530000,-120.4832000000,95340,"Breakfast, Sandwich",2,25,4.9,Excellent,48,17
+180,16608168,Pipers of Penola,Penola,"58 Riddoch St, Penola",Penola,-37.3797649000,140.8386923000,5277,Modern Australian,3,30,4.9,Excellent,44,20
+181,16605776,du Fermier,Trentham,"42 High Street, Trentham",Trentham,-37.3885278000,144.3220217000,3458,"Coffee and Tea, French, International",2,20,4.9,Excellent,95,47
+182,5601628,Laffah Cafeteria - كافتيريا لفاح,Al Majaz,"Ground Floor, Al Hikma Building, Street 29, Al Majaz, Sharjah",Sharjah,25.3239804487,55.3806075454,,"Fast Food, Arabian, Middle Eastern",1,35,4.9,Excellent,910,369
+183,17410322,The Shanty Restaurant,Wadsworth,"38995 N US Highway 41, Wadsworth 60083",Wadsworth,42.4288000000,-87.9378000000,60083,"American, Burger, Steak",3,40,4.9,Excellent,55,17
+184,16608174,Skillogalee Winery and Restaurant,Spring Gully,"Trevarrick Rd, Sevenhill, Clare Valley, Spring Gully",Spring Gully,-33.9111630000,138.6150360000,5453,Others,3,30,4.9,Excellent,54,27
+185,16607273,Bastoni Pizzeria,Myrtleford,"Entrance On Great Alpine Rd Next To The Myrtleford Piazza, Myrtleford, Myrtleford",Myrtleford,-36.5607870000,146.7247800000,3737,Pizza,2,20,4.9,Excellent,46,28
+186,18692874,60's Beatles Cafe,Tapovan,"Paidal Marg, Laxman Jhula, Tapovan, Rishikesh",Rishikesh,30.1270520312,78.3262113109,,"Cafe, Italian, Continental, North Indian, Asian",2,600,4.9,Excellent,201,104
+187,16609926,Rose's Cafe,Goulburn,"10 Montague St, Goulburn",Goulburn,-34.7544490000,149.7174480000,,"Breakfast, Coffee and Tea",1,7,4.9,Excellent,76,35
+188,16605284,Tomo Modern Japanese,Inverloch,"1/23 A'Beckett Street, Inverloch",Inverloch,-38.6337090000,145.7252810000,3996,Japanese,3,30,4.9,Excellent,95,42
+189,16608060,Appellation,Marananga,"Seppeltsfield Road, Marananga",Marananga,-34.4874960000,138.9465680000,5352,Modern Australian,1,0,4.9,Excellent,97,36
+190,17675919,Up For Breakfast,Manchester Center,"4933 Main St, Manchester Center 05255",Manchester Center,43.1772580000,-73.0561440000,05255,Breakfast,1,10,4.9,Excellent,46,14
+191,16609749,Harvest Cafe,Newrybar,"18 Old Pacific Hwy, Newrybar",Newrybar,-28.7213040000,153.5304410000,2479,Modern Australian,3,30,4.9,Excellent,211,117
+192,16614411,The Green Ant Cantina,Parramatta Park,"183 Bunda Street, Parramatta Park",Parramatta Park,-16.9262790000,145.7705830000,04870,"Mexican, Spanish",3,30,4.9,Excellent,44,13
+193,16605021,Timboon Railway Shed Distillery Restaurant,Timboon,"1 Bailey St, Timboon",Timboon,-38.4842614000,142.9785745000,3268,"Coffee and Tea, Desserts, Modern Australian",2,20,4.9,Excellent,85,50
+194,16647187,From Scratch A Mountain Kitchen,Fairmont Hot Springs,"8 5019 Fairmont Resort Rd, Fairmont Hot Springs",Fairmont Hot Springs,50.3356159000,-115.8543552000,,"American, Pizza, Sandwich",2,25,4.9,Excellent,43,22
+195,17648660,Dairy Bar,Brenham,"2703 Stringer St, Brenham 77833",Brenham,30.1440320000,-96.3815390000,77833,"American, Burger, Desserts",1,10,4.9,Excellent,42,13
+196,16608102,Star of Greece,Port Willunga,"1 The Esplanade, Port Willunga",Port Willunga,-35.2474710000,138.4688260000,5173,"Mediterranean, Seafood, Modern Australian",3,30,4.9,Excellent,164,85
+197,16604911,Bridge Road Brewers,Beechworth,"Old Coach House 50 Ford St, Beechworth, Beechworth",Beechworth,-36.3604390000,146.6858520000,3747,"Pizza, Bar Food",2,20,4.9,Excellent,184,99
+198,16609847,Byblos Restaurant & Bar,Gosford,"124 Donnison St, Gosford",Gosford,-33.4269370000,151.3428800000,2250,Middle Eastern,2,20,4.9,Excellent,46,22
+199,16658461,That Little Place By the Lights,Huntsville,"76 Main St E, Huntsville P1H2B8",Huntsville,45.3270893000,-79.2167492000,P1H2B8,"Coffee and Tea, Desserts, Italian",2,25,4.9,Excellent,63,35
+200,16608092,Nino's - Victor Harbor,Victor Harbor,"17 Albert Pl, Victor Harbor",Victor Harbor,-35.5556980000,138.6228330000,5211,"Italian, Pizza",2,20,4.9,Excellent,110,66
+201,16605070,Port Campbell Hotel,Port Campbell,"40 Lord St, Port Campbell",Port Campbell,-38.6192670000,142.9960480000,3269,"Bar Food, Modern Australian",2,20,4.9,Excellent,63,37
+202,16609632,Muse Restaurant and Cafe,Pokolbin,"1 Broke Rd, Pokolbin",Pokolbin,-32.7732660000,151.3118130000,2320,Modern Australian,4,25000017,4.9,Excellent,177,84
+203,16609867,Famous Berry Donut Van,Berry,"73 Queen St, Berry",Berry,-34.7749810000,150.6948920000,2535,Desserts,1,7,4.9,Excellent,144,79
+204,16605794,Funkey Monkey,Lakes Entrance,"26 Myer street, Lakes Entrance",Lakes Entrance,-37.8783865000,147.9942247000,3909,"Breakfast, Coffee and Tea",1,7,4.9,Excellent,109,60
+205,16585905,Tipo 00,CBD,"361 Little Bourke Street, CBD, Melbourne",Melbourne,-37.8135277429,144.9619733915,3000,Italian,4,150,4.9,Excellent,1927,717
+206,18243565,Ahdoo's,Lal Chowk,"Lal Chowk Market, Residency Road, Srinagar",Srinagar,34.0723700762,74.8190141469,,"South Indian, North Indian, Kashmiri",2,700,4.9,Excellent,180,55
+207,16944931,Menas Tex-Mex Grill  Cantina,Carrollton,"2810 East Trinity Mills Road, Carrollton 75006",Carrollton,32.9870500000,-96.8531700000,75006,Tex-Mex,2,40,4.9,Excellent,115,33
+208,16604448,Rubens Hepburn,Hepburn Springs,"70 Main Road,, Hepburn Springs",Hepburn Springs,-37.3168790000,144.1380570000,3461,"Mediterranean, Pizza, Seafood",3,30,4.9,Excellent,340,180
+209,16606021,Stockpot,Tawonga South,"231 Kiewa Valley Hwy, Tawonga South",Tawonga South,-36.7377750000,147.1604390000,03698,"Pizza, Tapas, Modern Australian",2,20,4.9,Excellent,42,15
+210,16604360,The Stanley Pub,Stanley,"6-12 Myrtleford-Stanley Rd, Stanley, Stanley",Stanley,-36.4049360000,146.7536670000,3747,Australian,4,90,4.9,Excellent,61,30
+211,16606229,Otway NouriShed,Ferguson,"3810 Colac-Lavers Hill Rd, Ferguson",Ferguson,-38.6293250000,143.5238820000,03237,"Coffee and Tea, Sandwich",1,7,4.9,Excellent,54,24
+212,16606058,Mount Macedon Hotel,Mount Macedon,"694 Mt Macedon Rd, Mt Macedon, Mount Macedon, Mount Macedon",Mount Macedon,-37.3897352000,144.5959105000,3441,Modern Australian,3,30,4.9,Excellent,95,56
+213,17559675,Superfly Martini Bar & Grill,Brookings,"623 Memory Lane, Brookings 97415",Brookings,42.0492509000,-124.2810096000,97415,"American, Breakfast, Burger",2,25,4.9,Excellent,61,36
+214,16611093,Spice Den,Casuarina,"9 Dianella Dr, Casuarina",Casuarina,-28.2950570000,153.5724900000,02487,Thai,2,20,4.9,Excellent,86,51
+215,16611253,Bernie's Diner,Moss Vale,"402-404 Argyle St, Moss Vale",Moss Vale,-34.5500913000,150.3712602000,2577,"Burger, Diner",1,7,4.9,Excellent,58,33
+216,16604747,Fyansford Hotel,Fyansford,"67 Hyland St, Fyansford",Fyansford,-38.1422630000,144.3100570000,3221,"Bar Food, Modern Australian",2,20,4.9,Excellent,62,33
+217,17350306,Bar-B-Q Bill's,Chiefland,1901 North Young Boulevard 32626,Chiefland,29.4973800000,-82.8682100000,32626,BBQ,1,10,4.9,Excellent,42,25
+218,16605444,King River Cafe,Oxley,"1143 Snow Rd, Oxley",Oxley,-36.4431930000,146.3820330000,3678,Modern Australian,3,30,4.9,Excellent,47,23
+219,16604403,The Corner Hotel,Alexandra,"65 Grant Street, Alexandra",Alexandra,-37.1924360000,145.7098390000,03714,Pub Food,2,20,4.9,Excellent,56,34
+220,16613131,St Bernards Hotel,Mount Tamborine,"101 Alpine Terrace, Mount Tamborine",Mount Tamborine,-27.9687858000,153.1960687000,4272,Modern Australian,3,30,4.9,Excellent,43,27
+221,16606579,Le Peche Gourmand,Creswick,"69a Albert St, Creswick",Creswick,-37.4238470000,143.8943650000,3363,"Coffee and Tea, French",1,7,4.9,Excellent,59,25
+222,17656764,Koffee Kup,Hico,"300 2nd St, Hico 76457",Hico,31.9827397000,-98.0281305000,76457,"Breakfast, Burger, Desserts",1,10,4.9,Excellent,46,23
+223,16604386,Ripples on the Bay,Rippleside,"42 Bell Parade, Rippleside, Rippleside",Rippleside,-38.1277618000,144.3567780000,3220,"Modern Australian, Cafe Food",3,30,4.9,Excellent,95,54
+224,18482498,Tomahawks,Bright,15 Camp St Bright,Bright,0.0000000000,0.0000000000,,Bar Food,4,40,4.9,Excellent,122,67
+225,16612028,The Belle General,East Ballina,"12 Shelly Beach Rd, East Ballina",East Ballina,-28.8626630000,153.5933310000,2478,Cafe Food,2,20,4.9,Excellent,44,27
+226,18487792,Thunder Road Barracuda,"Barracuda Beach Resort, Khor Al Baida","Khor Al Baida, Umm al Quwain",Umm al Quwain,25.5876180000,55.6520860000,,Italian,4,250,4.9,Excellent,100,62
+227,16604999,The Forge Pizzeria,Alfredton,"1771 Sturt St, Alfredton",Alfredton,-37.5507020000,143.8056190000,3350,"Italian, Pizza",2,20,4.9,Excellent,190,71
+228,16606731,Porter Republic,San Remo,"117 Marine Parade, San Remo",San Remo,-38.5206972000,145.3701046000,3925,Modern Australian,2,20,4.9,Excellent,200,119
+229,16605077,The Loaf and Lounge,Camperdown,"223 Manifold St, Camperdown",Camperdown,-38.2316513000,143.1448800000,3260,Coffee and Tea,1,7,4.9,Excellent,41,19
+230,16604773,Parker Pies,Rutherglen,"88 Main St Rutherglen, Rutherglen",Rutherglen,-36.0547680000,146.4608760000,3685,Others,1,7,4.9,Excellent,78,32
+231,16586014,Minamishima,Richmond,"4 Lord Street, Richmond, Melbourne, VIC",Melbourne,-37.8198314176,145.0051938370,3121,"Japanese, Sushi",4,450,4.9,Excellent,747,290
+232,18386758,Hotel Tokas,Neemrana,"NH-8, Delhi - Jaipur Highway, Japanese Zone, Neemrana, Alwar",Neemrana,27.9781597491,76.4006208055,,North Indian,2,800,4.9,Excellent,376,40
+233,16605207,The Harrietville Snowline Hotel,Harrietville,"237 Great Alpine Rd, Harrietville, Harrietville",Harrietville,-36.8937420000,147.0633850000,3741,"Bar Food, Steak",4,60,4.9,Excellent,55,29
+234,16605212,Tahbilk Cafe,Nagambie,"254 Oneils Rd, Nagambie",Nagambie,-36.8267840000,145.0937810000,3608,"Coffee and Tea, Modern Australian",2,20,4.9,Excellent,50,29
+235,16605023,Coffee Cartel,Breakwater,"35 Leather St, Breakwater",Breakwater,-38.1856090000,144.3736480000,3219,"Breakfast, Burger, Coffee and Tea",1,7,4.9,Excellent,120,58
+236,17496199,Velvet Cream,Hernando,"2290 Hwy 51 S, Hernando 38632",Hernando,34.8241000000,-89.9941000000,38632,"Burger, Desserts, Fast Food",1,10,4.9,Excellent,98,31
+237,17669374,Cafe Diablo,Torrey,599 West. Main Street. 84775,Torrey,38.2960760000,-111.4382970000,84775,Southwestern,3,40,4.9,Excellent,55,28
+238,16608736,Goodfellas Cafe,Burnside,"147/152 Bussell Hwy, Margaret River",Burnside,-33.9531670000,115.0736940000,6285,"Italian, Pizza",3,30,4.9,Excellent,88,48
+239,16610069,Grill'd - The Junction,The Junction,"Eastpoint Centre, 50 Glebe Road, The Junction",The Junction,-32.9386180000,151.7609860000,2291,Burger,2,20,4.9,Excellent,70,14
+240,17554599,Click's Steak House,Pawnee,"409 Harrison St, Pawnee 74058",Pawnee,36.3382000000,-96.8012000000,74058,"American, Burger, Steak",2,25,4.9,Excellent,43,16
+241,16606275,The Kangaroo Hotel,Maldon,"89 High St, Maldon",Maldon,-36.9973320000,144.0680870000,3463,Australian,2,20,4.9,Excellent,52,32
+242,18615392,WAKI Japanese BBQ Dining,Thamrin,"Lantai 1, Jl. Tanjung Karang No. 5, Thamrin, Jakarta",Jakarta,-6.2011150000,106.8223000000,,"Japanese, BBQ",3,300000,4.9,Excellent,2932,1414
+243,16604414,Chocolate Mill,Mount Franklin,"5451 Midland Hwy, Mount Franklin",Mount Franklin,-37.2814870000,144.1521300000,3461,Desserts,1,7,4.9,Excellent,111,51
+244,201897,Zuma,DIFC,"Podium Level, Gate Village 6, Sheikh Zayed Road, DIFC, Dubai",Dubai,25.2139531817,55.2836128324,0,"Japanese, Sushi, Salad",4,610,4.9,Excellent,1923,828
+245,17492414,White Grill,Nevada,"200 N Commercial St, Nevada 64772",Nevada,37.8391000000,-94.3491000000,64772,"Burger, Coffee and Tea, Diner",1,10,4.9,Excellent,46,17
+246,17276345,MK's Asian Kitchen,Opelika,"2490 Enterprise Dr, Opelika 36801",Opelika,32.6205650000,-85.4092750000,36801,"Asian, Chinese",1,10,4.9,Excellent,95,38
+247,16607119,Baringo Food & Wine Co.,New Gisborne,"Shop 1 283 Station Rd, New Gisborne",New Gisborne,-37.4593428000,144.5980671000,3438,"Coffee and Tea, Australian",2,20,4.9,Excellent,64,37
+248,16643277,Saigon Moon,Black Diamond,"130 Government Road, Black Diamond T0L0H0",Black Diamond,50.6872963000,-114.2325731000,T0L0H0,"Vietnamese, Beverages",2,25,4.9,Excellent,43,18
+249,16607294,The Winery Kitchen,Seymour,"1 Emily St, Seymour, Seymour",Seymour,-37.0224530000,145.1147290000,3660,"Australian, Desserts, Italian",2,20,4.9,Excellent,62,29
+250,16606526,Elevation 423 Bar & Cafe,Marysville,"41 Murchison St, Marysville",Marysville,-37.5108450000,145.7450260000,3779,"Coffee and Tea, Bar Food, Australian",4,75,4.9,Excellent,80,51
+251,17553244,Wong's Restaurant,Clinton,"712 Opal Ave, Clinton 73601",Clinton,35.5065000000,-98.9687000000,73601,"American, Chinese",1,10,4.9,Excellent,65,22
+252,16608129,Port Elliot Bakery,Port Elliot,"31 North Terrace, Port Elliot",Port Elliot,-35.5306780000,138.6825710000,5212,Others,1,7,4.9,Excellent,96,34
+253,16604764,The Black Spur Inn,Narbethong,"436 Maroondah Highway, Narbethong",Narbethong,-37.5572240000,145.6581270000,3778,Modern Australian,3,30,4.9,Excellent,66,40
+254,16605902,Pik Nik,Swan Bay,"1195 Queenscliff Rd, Swan Bay",Swan Bay,-38.2267968481,144.6351877972,3225,"Coffee and Tea, Desserts, Modern Australian",2,20,4.9,Excellent,108,45
+255,16606711,The Driftwood Cafe,Ocean Grove,"64 The Terrace, Ocean Grove, Ocean Grove",Ocean Grove,-38.2678719000,144.5222505000,3226,Cafe Food,2,20,4.9,Excellent,156,98
+256,17656346,Del Norte,Godley,"101 E Hwy 171, Godley 76044",Godley,32.4485140000,-97.5341830000,76044,"Mexican, Southwestern, Tex-Mex",1,10,4.9,Excellent,50,16
+257,17417691,3rd & Main,Aurora,"223 Third St, Aurora 47001",Aurora,39.0548510000,-84.8994390000,47001,"American, BBQ, Burger",3,40,4.9,Excellent,97,70
+258,16608061,Aquacafe,Goolwa South,"94 Barrage Rd, Goolwa South",Goolwa South,-35.5109680000,138.7828729000,5214,"Coffee and Tea, Seafood",2,20,4.9,Excellent,52,21
+259,17554878,Wild Horse Mountain Bar-B-Que,Sallisaw,"S 4612 Rd, Sallisaw 74955",Sallisaw,35.4058420000,-94.8042870000,74955,BBQ,1,10,4.9,Excellent,77,28
+260,17656118,Mary's Tacos,Kerrville,"1616 Broadway, Kerrville 78028",Kerrville,30.0367920000,-99.1345590000,78028,"Breakfast, Mexican",1,10,4.9,Excellent,60,20
+261,16609855,Margan Restaurant,Broke,"1238 Milbrodale Rd, Broke",Broke,-32.7541230000,151.0956620000,2330,Modern Australian,3,30,4.9,Excellent,51,29
+262,18702883,Landour Bakehouse,Landour,"Shop 152, Sisters Bazaar, Landour Cantt",Mussoorie,30.4568987189,78.1020792201,,"Cafe, Bakery, Desserts",2,500,4.9,Excellent,174,91
+263,16604423,Source Dining,Kyneton,"72 Piper St, Kyneton, Kyneton",Kyneton,-37.2439460000,144.4485630000,,"Modern Australian, Australian",4,100,4.9,Excellent,193,83
+264,16855097,Cafe Citti,Kenwood,"9049 Sonoma Highway, Kenwood 95452",Kenwood,38.4181222222,-122.5502250000,95452,Italian,2,40,4.9,Excellent,58,11
+265,17280355,Dusit Thai Cuisine,Mountain Home,"920 Hwy 62 E, Mountain Home 72653",Mountain Home,36.3487800000,-92.3728150000,72653,"Asian, Thai",1,10,4.9,Excellent,98,46
+266,17218986,Maggie's Town Tavern,Little Falls,"10 Van Ness Ave, Little Falls 07424",Little Falls,40.8805720000,-74.2230000000,07424,"Pizza, Bar Food, Steak",2,25,4.9,Excellent,47,19
+267,16604818,Brandy Creek Wines & View Cafe,Drouin East,"570 Buln Buln Rd, Drouin East",Drouin East,-38.1076200000,145.8977050000,3818,"Spanish, Tapas",2,20,4.9,Excellent,67,38
+268,16609287,Gorges Cafe,Kalbarri,"Shop 6, Marina Complex, Grey Street, Kalbarri",Kalbarri,-27.7021074000,114.1679929000,6536,"Breakfast, Modern Australian",2,20,4.9,Excellent,47,29
+269,16608105,Victory Hotel,Sellicks Beach,"Main South Road, Sellicks Beach",Sellicks Beach,-35.3385390000,138.4643100000,5174,Pub Food,2,20,4.9,Excellent,102,56
+270,17277886,Craig Brothers Cafe,De Valls Bluff,"15 W Walnut, De Valls Bluff 72041",De Valls Bluff,34.7216000000,-91.5348000000,72041,BBQ,1,10,4.9,Excellent,72,20
+271,16608261,The Barn Steakhouse,Mount Gambier,"747 Glenelg River Rd, Mt Gambier, Mount Gambier",Mount Gambier,-37.8195480286,140.6435394287,05290,Steak,2,20,4.9,Excellent,112,56
+272,12200008,Atticus Finch,Rotorua Central,"1106 Tutanekai Street, Rotorua Central, Rotorua 3010",Rotorua,-38.1331260000,176.2517670000,3010,"Mediterranean, European",3,65,4.9,Excellent,66,45
+273,17526921,Thai Spice & Sushi Bar,Albemarle,"1621 East Main Street, Albemarle 28001",Albemarle,35.3505250000,-80.1707630000,28001,"Japanese, Sushi, Thai",1,10,4.9,Excellent,52,26
+274,16605677,Jack Rabbit Restaurant,Bellarine,"85 McAdams Lane, Bellarine",Bellarine,-38.1369474000,144.5940460000,3221,Modern Australian,3,30,4.9,Excellent,161,104
+275,17563040,La Tarasca,Centralia,"1001 W Main St, Centralia 98531",Centralia,46.7187000000,-122.9655000000,98531,Mexican,1,10,4.9,Excellent,121,41
+276,17483280,Clyde's Drive-In,St Ignace,"3 US 2 W, St Ignace 49781",St Ignace,45.8585570000,-84.7195000000,49781,"American, Burger",1,10,4.9,Excellent,68,25
+277,16604836,The Outpost Retreat & Toolshed bar,Noojee,"38 Loch Valley Road, Noojee",Noojee,-37.8911980000,146.0037790000,3833,Bar Food,2,20,4.9,Excellent,48,25
+278,16608088,Maggie Beer's Farm Shop,Nuriootpa,"Maggie Beers Farm End Of Pheasant Farm Rd, Nuriootpa",Nuriootpa,-34.4824980000,138.9747160000,5355,Modern Australian,2,20,4.9,Excellent,258,99
+279,17545658,Toni's Courtyard Cafe & Bakery,Merced,"516 W 18th St, Merced 95340",Merced,37.3024530000,-120.4832000000,95340,"Breakfast, Sandwich",2,25,4.9,Excellent,48,17
+280,16608168,Pipers of Penola,Penola,"58 Riddoch St, Penola",Penola,-37.3797649000,140.8386923000,5277,Modern Australian,3,30,4.9,Excellent,44,20
+281,16605776,du Fermier,Trentham,"42 High Street, Trentham",Trentham,-37.3885278000,144.3220217000,3458,"Coffee and Tea, French, International",2,20,4.9,Excellent,95,47
+282,5601628,Laffah Cafeteria - كافتيريا لفاح,Al Majaz,"Ground Floor, Al Hikma Building, Street 29, Al Majaz, Sharjah",Sharjah,25.3239804487,55.3806075454,,"Fast Food, Arabian, Middle Eastern",1,35,4.9,Excellent,910,369
+283,17410322,The Shanty Restaurant,Wadsworth,"38995 N US Highway 41, Wadsworth 60083",Wadsworth,42.4288000000,-87.9378000000,60083,"American, Burger, Steak",3,40,4.9,Excellent,55,17
+284,16608174,Skillogalee Winery and Restaurant,Spring Gully,"Trevarrick Rd, Sevenhill, Clare Valley, Spring Gully",Spring Gully,-33.9111630000,138.6150360000,5453,Others,3,30,4.9,Excellent,54,27
+285,16607273,Bastoni Pizzeria,Myrtleford,"Entrance On Great Alpine Rd Next To The Myrtleford Piazza, Myrtleford, Myrtleford",Myrtleford,-36.5607870000,146.7247800000,3737,Pizza,2,20,4.9,Excellent,46,28
+286,18692874,60's Beatles Cafe,Tapovan,"Paidal Marg, Laxman Jhula, Tapovan, Rishikesh",Rishikesh,30.1270520312,78.3262113109,,"Cafe, Italian, Continental, North Indian, Asian",2,600,4.9,Excellent,201,104
+287,16609926,Rose's Cafe,Goulburn,"10 Montague St, Goulburn",Goulburn,-34.7544490000,149.7174480000,,"Breakfast, Coffee and Tea",1,7,4.9,Excellent,76,35
+288,16605284,Tomo Modern Japanese,Inverloch,"1/23 A'Beckett Street, Inverloch",Inverloch,-38.6337090000,145.7252810000,3996,Japanese,3,30,4.9,Excellent,95,42
+289,16608060,Appellation,Marananga,"Seppeltsfield Road, Marananga",Marananga,-34.4874960000,138.9465680000,5352,Modern Australian,1,0,4.9,Excellent,97,36
+290,17675919,Up For Breakfast,Manchester Center,"4933 Main St, Manchester Center 05255",Manchester Center,43.1772580000,-73.0561440000,05255,Breakfast,1,10,4.9,Excellent,46,14
+291,16609749,Harvest Cafe,Newrybar,"18 Old Pacific Hwy, Newrybar",Newrybar,-28.7213040000,153.5304410000,2479,Modern Australian,3,30,4.9,Excellent,211,117
+292,16614411,The Green Ant Cantina,Parramatta Park,"183 Bunda Street, Parramatta Park",Parramatta Park,-16.9262790000,145.7705830000,04870,"Mexican, Spanish",3,30,4.9,Excellent,44,13
+293,16605021,Timboon Railway Shed Distillery Restaurant,Timboon,"1 Bailey St, Timboon",Timboon,-38.4842614000,142.9785745000,3268,"Coffee and Tea, Desserts, Modern Australian",2,20,4.9,Excellent,85,50
+294,16647187,From Scratch A Mountain Kitchen,Fairmont Hot Springs,"8 5019 Fairmont Resort Rd, Fairmont Hot Springs",Fairmont Hot Springs,50.3356159000,-115.8543552000,,"American, Pizza, Sandwich",2,25,4.9,Excellent,43,22
+295,17648660,Dairy Bar,Brenham,"2703 Stringer St, Brenham 77833",Brenham,30.1440320000,-96.3815390000,77833,"American, Burger, Desserts",1,10,4.9,Excellent,42,13
+296,16608102,Star of Greece,Port Willunga,"1 The Esplanade, Port Willunga",Port Willunga,-35.2474710000,138.4688260000,5173,"Mediterranean, Seafood, Modern Australian",3,30,4.9,Excellent,164,85
+297,16604911,Bridge Road Brewers,Beechworth,"Old Coach House 50 Ford St, Beechworth, Beechworth",Beechworth,-36.3604390000,146.6858520000,3747,"Pizza, Bar Food",2,20,4.9,Excellent,184,99
+298,16609847,Byblos Restaurant & Bar,Gosford,"124 Donnison St, Gosford",Gosford,-33.4269370000,151.3428800000,2250,Middle Eastern,2,20,4.9,Excellent,46,22
+299,16658461,That Little Place By the Lights,Huntsville,"76 Main St E, Huntsville P1H2B8",Huntsville,45.3270893000,-79.2167492000,P1H2B8,"Coffee and Tea, Desserts, Italian",2,25,4.9,Excellent,63,35
+300,16608092,Nino's - Victor Harbor,Victor Harbor,"17 Albert Pl, Victor Harbor",Victor Harbor,-35.5556980000,138.6228330000,5211,"Italian, Pizza",2,20,4.9,Excellent,110,66
+301,16605070,Port Campbell Hotel,Port Campbell,"40 Lord St, Port Campbell",Port Campbell,-38.6192670000,142.9960480000,3269,"Bar Food, Modern Australian",2,20,4.9,Excellent,63,37
+302,16609632,Muse Restaurant and Cafe,Pokolbin,"1 Broke Rd, Pokolbin",Pokolbin,-32.7732660000,151.3118130000,2320,Modern Australian,4,25000017,4.9,Excellent,177,84
+303,16609867,Famous Berry Donut Van,Berry,"73 Queen St, Berry",Berry,-34.7749810000,150.6948920000,2535,Desserts,1,7,4.9,Excellent,144,79
+304,16605794,Funkey Monkey,Lakes Entrance,"26 Myer street, Lakes Entrance",Lakes Entrance,-37.8783865000,147.9942247000,3909,"Breakfast, Coffee and Tea",1,7,4.9,Excellent,109,60
+305,16585905,Tipo 00,CBD,"361 Little Bourke Street, CBD, Melbourne",Melbourne,-37.8135277429,144.9619733915,3000,Italian,4,150,4.9,Excellent,1927,717
+306,18243565,Ahdoo's,Lal Chowk,"Lal Chowk Market, Residency Road, Srinagar",Srinagar,34.0723700762,74.8190141469,,"South Indian, North Indian, Kashmiri",2,700,4.9,Excellent,180,55
+307,16944931,Menas Tex-Mex Grill  Cantina,Carrollton,"2810 East Trinity Mills Road, Carrollton 75006",Carrollton,32.9870500000,-96.8531700000,75006,Tex-Mex,2,40,4.9,Excellent,115,33
+308,16604448,Rubens Hepburn,Hepburn Springs,"70 Main Road,, Hepburn Springs",Hepburn Springs,-37.3168790000,144.1380570000,3461,"Mediterranean, Pizza, Seafood",3,30,4.9,Excellent,340,180
+309,16606021,Stockpot,Tawonga South,"231 Kiewa Valley Hwy, Tawonga South",Tawonga South,-36.7377750000,147.1604390000,03698,"Pizza, Tapas, Modern Australian",2,20,4.9,Excellent,42,15
+310,16604360,The Stanley Pub,Stanley,"6-12 Myrtleford-Stanley Rd, Stanley, Stanley",Stanley,-36.4049360000,146.7536670000,3747,Australian,4,90,4.9,Excellent,61,30
+311,16606229,Otway NouriShed,Ferguson,"3810 Colac-Lavers Hill Rd, Ferguson",Ferguson,-38.6293250000,143.5238820000,03237,"Coffee and Tea, Sandwich",1,7,4.9,Excellent,54,24
+312,16606058,Mount Macedon Hotel,Mount Macedon,"694 Mt Macedon Rd, Mt Macedon, Mount Macedon, Mount Macedon",Mount Macedon,-37.3897352000,144.5959105000,3441,Modern Australian,3,30,4.9,Excellent,95,56
+313,17559675,Superfly Martini Bar & Grill,Brookings,"623 Memory Lane, Brookings 97415",Brookings,42.0492509000,-124.2810096000,97415,"American, Breakfast, Burger",2,25,4.9,Excellent,61,36
+314,16611093,Spice Den,Casuarina,"9 Dianella Dr, Casuarina",Casuarina,-28.2950570000,153.5724900000,02487,Thai,2,20,4.9,Excellent,86,51
+315,16611253,Bernie's Diner,Moss Vale,"402-404 Argyle St, Moss Vale",Moss Vale,-34.5500913000,150.3712602000,2577,"Burger, Diner",1,7,4.9,Excellent,58,33
+316,16604747,Fyansford Hotel,Fyansford,"67 Hyland St, Fyansford",Fyansford,-38.1422630000,144.3100570000,3221,"Bar Food, Modern Australian",2,20,4.9,Excellent,62,33
+317,17350306,Bar-B-Q Bill's,Chiefland,1901 North Young Boulevard 32626,Chiefland,29.4973800000,-82.8682100000,32626,BBQ,1,10,4.9,Excellent,42,25
+318,16605444,King River Cafe,Oxley,"1143 Snow Rd, Oxley",Oxley,-36.4431930000,146.3820330000,3678,Modern Australian,3,30,4.9,Excellent,47,23
+319,16604403,The Corner Hotel,Alexandra,"65 Grant Street, Alexandra",Alexandra,-37.1924360000,145.7098390000,03714,Pub Food,2,20,4.9,Excellent,56,34
+320,16613131,St Bernards Hotel,Mount Tamborine,"101 Alpine Terrace, Mount Tamborine",Mount Tamborine,-27.9687858000,153.1960687000,4272,Modern Australian,3,30,4.9,Excellent,43,27
+321,16606579,Le Peche Gourmand,Creswick,"69a Albert St, Creswick",Creswick,-37.4238470000,143.8943650000,3363,"Coffee and Tea, French",1,7,4.9,Excellent,59,25
+322,17656764,Koffee Kup,Hico,"300 2nd St, Hico 76457",Hico,31.9827397000,-98.0281305000,76457,"Breakfast, Burger, Desserts",1,10,4.9,Excellent,46,23
+323,16604386,Ripples on the Bay,Rippleside,"42 Bell Parade, Rippleside, Rippleside",Rippleside,-38.1277618000,144.3567780000,3220,"Modern Australian, Cafe Food",3,30,4.9,Excellent,95,54
+324,18482498,Tomahawks,Bright,15 Camp St Bright,Bright,0.0000000000,0.0000000000,,Bar Food,4,40,4.9,Excellent,122,67
+325,16612028,The Belle General,East Ballina,"12 Shelly Beach Rd, East Ballina",East Ballina,-28.8626630000,153.5933310000,2478,Cafe Food,2,20,4.9,Excellent,44,27
+326,18487792,Thunder Road Barracuda,"Barracuda Beach Resort, Khor Al Baida","Khor Al Baida, Umm al Quwain",Umm al Quwain,25.5876180000,55.6520860000,,Italian,4,250,4.9,Excellent,100,62
+327,16604999,The Forge Pizzeria,Alfredton,"1771 Sturt St, Alfredton",Alfredton,-37.5507020000,143.8056190000,3350,"Italian, Pizza",2,20,4.9,Excellent,190,71
+328,16606731,Porter Republic,San Remo,"117 Marine Parade, San Remo",San Remo,-38.5206972000,145.3701046000,3925,Modern Australian,2,20,4.9,Excellent,200,119
+329,16605077,The Loaf and Lounge,Camperdown,"223 Manifold St, Camperdown",Camperdown,-38.2316513000,143.1448800000,3260,Coffee and Tea,1,7,4.9,Excellent,41,19
+330,16604773,Parker Pies,Rutherglen,"88 Main St Rutherglen, Rutherglen",Rutherglen,-36.0547680000,146.4608760000,3685,Others,1,7,4.9,Excellent,78,32
+331,16586014,Minamishima,Richmond,"4 Lord Street, Richmond, Melbourne, VIC",Melbourne,-37.8198314176,145.0051938370,3121,"Japanese, Sushi",4,450,4.9,Excellent,747,290
+332,18386758,Hotel Tokas,Neemrana,"NH-8, Delhi - Jaipur Highway, Japanese Zone, Neemrana, Alwar",Neemrana,27.9781597491,76.4006208055,,North Indian,2,800,4.9,Excellent,376,40
+333,16605207,The Harrietville Snowline Hotel,Harrietville,"237 Great Alpine Rd, Harrietville, Harrietville",Harrietville,-36.8937420000,147.0633850000,3741,"Bar Food, Steak",4,60,4.9,Excellent,55,29
+334,16605212,Tahbilk Cafe,Nagambie,"254 Oneils Rd, Nagambie",Nagambie,-36.8267840000,145.0937810000,3608,"Coffee and Tea, Modern Australian",2,20,4.9,Excellent,50,29
+335,16605023,Coffee Cartel,Breakwater,"35 Leather St, Breakwater",Breakwater,-38.1856090000,144.3736480000,3219,"Breakfast, Burger, Coffee and Tea",1,7,4.9,Excellent,120,58
+336,17496199,Velvet Cream,Hernando,"2290 Hwy 51 S, Hernando 38632",Hernando,34.8241000000,-89.9941000000,38632,"Burger, Desserts, Fast Food",1,10,4.9,Excellent,98,31
+337,17669374,Cafe Diablo,Torrey,599 West. Main Street. 84775,Torrey,38.2960760000,-111.4382970000,84775,Southwestern,3,40,4.9,Excellent,55,28
+338,16608736,Goodfellas Cafe,Burnside,"147/152 Bussell Hwy, Margaret River",Burnside,-33.9531670000,115.0736940000,6285,"Italian, Pizza",3,30,4.9,Excellent,88,48
+339,16610069,Grill'd - The Junction,The Junction,"Eastpoint Centre, 50 Glebe Road, The Junction",The Junction,-32.9386180000,151.7609860000,2291,Burger,2,20,4.9,Excellent,70,14
+340,17554599,Click's Steak House,Pawnee,"409 Harrison St, Pawnee 74058",Pawnee,36.3382000000,-96.8012000000,74058,"American, Burger, Steak",2,25,4.9,Excellent,43,16
+341,16606275,The Kangaroo Hotel,Maldon,"89 High St, Maldon",Maldon,-36.9973320000,144.0680870000,3463,Australian,2,20,4.9,Excellent,52,32
+342,18615392,WAKI Japanese BBQ Dining,Thamrin,"Lantai 1, Jl. Tanjung Karang No. 5, Thamrin, Jakarta",Jakarta,-6.2011150000,106.8223000000,,"Japanese, BBQ",3,300000,4.9,Excellent,2932,1414
+343,16604414,Chocolate Mill,Mount Franklin,"5451 Midland Hwy, Mount Franklin",Mount Franklin,-37.2814870000,144.1521300000,3461,Desserts,1,7,4.9,Excellent,111,51
+344,201897,Zuma,DIFC,"Podium Level, Gate Village 6, Sheikh Zayed Road, DIFC, Dubai",Dubai,25.2139531817,55.2836128324,0,"Japanese, Sushi, Salad",4,610,4.9,Excellent,1923,828
+345,17492414,White Grill,Nevada,"200 N Commercial St, Nevada 64772",Nevada,37.8391000000,-94.3491000000,64772,"Burger, Coffee and Tea, Diner",1,10,4.9,Excellent,46,17
+346,17276345,MK's Asian Kitchen,Opelika,"2490 Enterprise Dr, Opelika 36801",Opelika,32.6205650000,-85.4092750000,36801,"Asian, Chinese",1,10,4.9,Excellent,95,38
+347,16607119,Baringo Food & Wine Co.,New Gisborne,"Shop 1 283 Station Rd, New Gisborne",New Gisborne,-37.4593428000,144.5980671000,3438,"Coffee and Tea, Australian",2,20,4.9,Excellent,64,37
+348,16643277,Saigon Moon,Black Diamond,"130 Government Road, Black Diamond T0L0H0",Black Diamond,50.6872963000,-114.2325731000,T0L0H0,"Vietnamese, Beverages",2,25,4.9,Excellent,43,18
+349,16607294,The Winery Kitchen,Seymour,"1 Emily St, Seymour, Seymour",Seymour,-37.0224530000,145.1147290000,3660,"Australian, Desserts, Italian",2,20,4.9,Excellent,62,29
+350,16606526,Elevation 423 Bar & Cafe,Marysville,"41 Murchison St, Marysville",Marysville,-37.5108450000,145.7450260000,3779,"Coffee and Tea, Bar Food, Australian",4,75,4.9,Excellent,80,51
+351,17553244,Wong's Restaurant,Clinton,"712 Opal Ave, Clinton 73601",Clinton,35.5065000000,-98.9687000000,73601,"American, Chinese",1,10,4.9,Excellent,65,22
+352,16608129,Port Elliot Bakery,Port Elliot,"31 North Terrace, Port Elliot",Port Elliot,-35.5306780000,138.6825710000,5212,Others,1,7,4.9,Excellent,96,34
+353,16604764,The Black Spur Inn,Narbethong,"436 Maroondah Highway, Narbethong",Narbethong,-37.5572240000,145.6581270000,3778,Modern Australian,3,30,4.9,Excellent,66,40
+354,16605902,Pik Nik,Swan Bay,"1195 Queenscliff Rd, Swan Bay",Swan Bay,-38.2267968481,144.6351877972,3225,"Coffee and Tea, Desserts, Modern Australian",2,20,4.9,Excellent,108,45
+355,16606711,The Driftwood Cafe,Ocean Grove,"64 The Terrace, Ocean Grove, Ocean Grove",Ocean Grove,-38.2678719000,144.5222505000,3226,Cafe Food,2,20,4.9,Excellent,156,98
+356,17656346,Del Norte,Godley,"101 E Hwy 171, Godley 76044",Godley,32.4485140000,-97.5341830000,76044,"Mexican, Southwestern, Tex-Mex",1,10,4.9,Excellent,50,16
+357,17417691,3rd & Main,Aurora,"223 Third St, Aurora 47001",Aurora,39.0548510000,-84.8994390000,47001,"American, BBQ, Burger",3,40,4.9,Excellent,97,70
+358,16608061,Aquacafe,Goolwa South,"94 Barrage Rd, Goolwa South",Goolwa South,-35.5109680000,138.7828729000,5214,"Coffee and Tea, Seafood",2,20,4.9,Excellent,52,21
+359,17554878,Wild Horse Mountain Bar-B-Que,Sallisaw,"S 4612 Rd, Sallisaw 74955",Sallisaw,35.4058420000,-94.8042870000,74955,BBQ,1,10,4.9,Excellent,77,28
+360,17656118,Mary's Tacos,Kerrville,"1616 Broadway, Kerrville 78028",Kerrville,30.0367920000,-99.1345590000,78028,"Breakfast, Mexican",1,10,4.9,Excellent,60,20
+361,16609855,Margan Restaurant,Broke,"1238 Milbrodale Rd, Broke",Broke,-32.7541230000,151.0956620000,2330,Modern Australian,3,30,4.9,Excellent,51,29
+362,18702883,Landour Bakehouse,Landour,"Shop 152, Sisters Bazaar, Landour Cantt",Mussoorie,30.4568987189,78.1020792201,,"Cafe, Bakery, Desserts",2,500,4.9,Excellent,174,91
+363,16604423,Source Dining,Kyneton,"72 Piper St, Kyneton, Kyneton",Kyneton,-37.2439460000,144.4485630000,,"Modern Australian, Australian",4,100,4.9,Excellent,193,83
+364,16855097,Cafe Citti,Kenwood,"9049 Sonoma Highway, Kenwood 95452",Kenwood,38.4181222222,-122.5502250000,95452,Italian,2,40,4.9,Excellent,58,11
+365,17280355,Dusit Thai Cuisine,Mountain Home,"920 Hwy 62 E, Mountain Home 72653",Mountain Home,36.3487800000,-92.3728150000,72653,"Asian, Thai",1,10,4.9,Excellent,98,46
+366,17218986,Maggie's Town Tavern,Little Falls,"10 Van Ness Ave, Little Falls 07424",Little Falls,40.8805720000,-74.2230000000,07424,"Pizza, Bar Food, Steak",2,25,4.9,Excellent,47,19
+367,16604818,Brandy Creek Wines & View Cafe,Drouin East,"570 Buln Buln Rd, Drouin East",Drouin East,-38.1076200000,145.8977050000,3818,"Spanish, Tapas",2,20,4.9,Excellent,67,38
+368,16609287,Gorges Cafe,Kalbarri,"Shop 6, Marina Complex, Grey Street, Kalbarri",Kalbarri,-27.7021074000,114.1679929000,6536,"Breakfast, Modern Australian",2,20,4.9,Excellent,47,29
+369,16608105,Victory Hotel,Sellicks Beach,"Main South Road, Sellicks Beach",Sellicks Beach,-35.3385390000,138.4643100000,5174,Pub Food,2,20,4.9,Excellent,102,56
+370,17277886,Craig Brothers Cafe,De Valls Bluff,"15 W Walnut, De Valls Bluff 72041",De Valls Bluff,34.7216000000,-91.5348000000,72041,BBQ,1,10,4.9,Excellent,72,20
+371,16608261,The Barn Steakhouse,Mount Gambier,"747 Glenelg River Rd, Mt Gambier, Mount Gambier",Mount Gambier,-37.8195480286,140.6435394287,05290,Steak,2,20,4.9,Excellent,112,56
+372,12200008,Atticus Finch,Rotorua Central,"1106 Tutanekai Street, Rotorua Central, Rotorua 3010",Rotorua,-38.1331260000,176.2517670000,3010,"Mediterranean, European",3,65,4.9,Excellent,66,45
+373,17526921,Thai Spice & Sushi Bar,Albemarle,"1621 East Main Street, Albemarle 28001",Albemarle,35.3505250000,-80.1707630000,28001,"Japanese, Sushi, Thai",1,10,4.9,Excellent,52,26
+374,16605677,Jack Rabbit Restaurant,Bellarine,"85 McAdams Lane, Bellarine",Bellarine,-38.1369474000,144.5940460000,3221,Modern Australian,3,30,4.9,Excellent,161,104
+375,17563040,La Tarasca,Centralia,"1001 W Main St, Centralia 98531",Centralia,46.7187000000,-122.9655000000,98531,Mexican,1,10,4.9,Excellent,121,41
+376,17483280,Clyde's Drive-In,St Ignace,"3 US 2 W, St Ignace 49781",St Ignace,45.8585570000,-84.7195000000,49781,"American, Burger",1,10,4.9,Excellent,68,25
+377,16604836,The Outpost Retreat & Toolshed bar,Noojee,"38 Loch Valley Road, Noojee",Noojee,-37.8911980000,146.0037790000,3833,Bar Food,2,20,4.9,Excellent,48,25
+378,16608088,Maggie Beer's Farm Shop,Nuriootpa,"Maggie Beers Farm End Of Pheasant Farm Rd, Nuriootpa",Nuriootpa,-34.4824980000,138.9747160000,5355,Modern Australian,2,20,4.9,Excellent,258,99
+379,17545658,Toni's Courtyard Cafe & Bakery,Merced,"516 W 18th St, Merced 95340",Merced,37.3024530000,-120.4832000000,95340,"Breakfast, Sandwich",2,25,4.9,Excellent,48,17
+380,16608168,Pipers of Penola,Penola,"58 Riddoch St, Penola",Penola,-37.3797649000,140.8386923000,5277,Modern Australian,3,30,4.9,Excellent,44,20
+381,16605776,du Fermier,Trentham,"42 High Street, Trentham",Trentham,-37.3885278000,144.3220217000,3458,"Coffee and Tea, French, International",2,20,4.9,Excellent,95,47
+382,5601628,Laffah Cafeteria - كافتيريا لفاح,Al Majaz,"Ground Floor, Al Hikma Building, Street 29, Al Majaz, Sharjah",Sharjah,25.3239804487,55.3806075454,,"Fast Food, Arabian, Middle Eastern",1,35,4.9,Excellent,910,369
+383,17410322,The Shanty Restaurant,Wadsworth,"38995 N US Highway 41, Wadsworth 60083",Wadsworth,42.4288000000,-87.9378000000,60083,"American, Burger, Steak",3,40,4.9,Excellent,55,17
+384,16608174,Skillogalee Winery and Restaurant,Spring Gully,"Trevarrick Rd, Sevenhill, Clare Valley, Spring Gully",Spring Gully,-33.9111630000,138.6150360000,5453,Others,3,30,4.9,Excellent,54,27
+385,16607273,Bastoni Pizzeria,Myrtleford,"Entrance On Great Alpine Rd Next To The Myrtleford Piazza, Myrtleford, Myrtleford",Myrtleford,-36.5607870000,146.7247800000,3737,Pizza,2,20,4.9,Excellent,46,28
+386,18692874,60's Beatles Cafe,Tapovan,"Paidal Marg, Laxman Jhula, Tapovan, Rishikesh",Rishikesh,30.1270520312,78.3262113109,,"Cafe, Italian, Continental, North Indian, Asian",2,600,4.9,Excellent,201,104
+387,16609926,Rose's Cafe,Goulburn,"10 Montague St, Goulburn",Goulburn,-34.7544490000,149.7174480000,,"Breakfast, Coffee and Tea",1,7,4.9,Excellent,76,35
+388,16605284,Tomo Modern Japanese,Inverloch,"1/23 A'Beckett Street, Inverloch",Inverloch,-38.6337090000,145.7252810000,3996,Japanese,3,30,4.9,Excellent,95,42
+389,16608060,Appellation,Marananga,"Seppeltsfield Road, Marananga",Marananga,-34.4874960000,138.9465680000,5352,Modern Australian,1,0,4.9,Excellent,97,36
+390,17675919,Up For Breakfast,Manchester Center,"4933 Main St, Manchester Center 05255",Manchester Center,43.1772580000,-73.0561440000,05255,Breakfast,1,10,4.9,Excellent,46,14
+391,16609749,Harvest Cafe,Newrybar,"18 Old Pacific Hwy, Newrybar",Newrybar,-28.7213040000,153.5304410000,2479,Modern Australian,3,30,4.9,Excellent,211,117
+392,16614411,The Green Ant Cantina,Parramatta Park,"183 Bunda Street, Parramatta Park",Parramatta Park,-16.9262790000,145.7705830000,04870,"Mexican, Spanish",3,30,4.9,Excellent,44,13
+393,16605021,Timboon Railway Shed Distillery Restaurant,Timboon,"1 Bailey St, Timboon",Timboon,-38.4842614000,142.9785745000,3268,"Coffee and Tea, Desserts, Modern Australian",2,20,4.9,Excellent,85,50
+394,16647187,From Scratch A Mountain Kitchen,Fairmont Hot Springs,"8 5019 Fairmont Resort Rd, Fairmont Hot Springs",Fairmont Hot Springs,50.3356159000,-115.8543552000,,"American, Pizza, Sandwich",2,25,4.9,Excellent,43,22
+395,17648660,Dairy Bar,Brenham,"2703 Stringer St, Brenham 77833",Brenham,30.1440320000,-96.3815390000,77833,"American, Burger, Desserts",1,10,4.9,Excellent,42,13
+396,16608102,Star of Greece,Port Willunga,"1 The Esplanade, Port Willunga",Port Willunga,-35.2474710000,138.4688260000,5173,"Mediterranean, Seafood, Modern Australian",3,30,4.9,Excellent,164,85
+397,16604911,Bridge Road Brewers,Beechworth,"Old Coach House 50 Ford St, Beechworth, Beechworth",Beechworth,-36.3604390000,146.6858520000,3747,"Pizza, Bar Food",2,20,4.9,Excellent,184,99
+398,16609847,Byblos Restaurant & Bar,Gosford,"124 Donnison St, Gosford",Gosford,-33.4269370000,151.3428800000,2250,Middle Eastern,2,20,4.9,Excellent,46,22
+399,16658461,That Little Place By the Lights,Huntsville,"76 Main St E, Huntsville P1H2B8",Huntsville,45.3270893000,-79.2167492000,P1H2B8,"Coffee and Tea, Desserts, Italian",2,25,4.9,Excellent,63,35
+400,16608092,Nino's - Victor Harbor,Victor Harbor,"17 Albert Pl, Victor Harbor",Victor Harbor,-35.5556980000,138.6228330000,5211,"Italian, Pizza",2,20,4.9,Excellent,110,66
+401,16605070,Port Campbell Hotel,Port Campbell,"40 Lord St, Port Campbell",Port Campbell,-38.6192670000,142.9960480000,3269,"Bar Food, Modern Australian",2,20,4.9,Excellent,63,37
+402,16609632,Muse Restaurant and Cafe,Pokolbin,"1 Broke Rd, Pokolbin",Pokolbin,-32.7732660000,151.3118130000,2320,Modern Australian,4,25000017,4.9,Excellent,177,84
+403,16609867,Famous Berry Donut Van,Berry,"73 Queen St, Berry",Berry,-34.7749810000,150.6948920000,2535,Desserts,1,7,4.9,Excellent,144,79
+404,16605794,Funkey Monkey,Lakes Entrance,"26 Myer street, Lakes Entrance",Lakes Entrance,-37.8783865000,147.9942247000,3909,"Breakfast, Coffee and Tea",1,7,4.9,Excellent,109,60
+405,16585905,Tipo 00,CBD,"361 Little Bourke Street, CBD, Melbourne",Melbourne,-37.8135277429,144.9619733915,3000,Italian,4,150,4.9,Excellent,1927,717
+406,18243565,Ahdoo's,Lal Chowk,"Lal Chowk Market, Residency Road, Srinagar",Srinagar,34.0723700762,74.8190141469,,"South Indian, North Indian, Kashmiri",2,700,4.9,Excellent,180,55
+407,16944931,Menas Tex-Mex Grill  Cantina,Carrollton,"2810 East Trinity Mills Road, Carrollton 75006",Carrollton,32.9870500000,-96.8531700000,75006,Tex-Mex,2,40,4.9,Excellent,115,33
+408,16604448,Rubens Hepburn,Hepburn Springs,"70 Main Road,, Hepburn Springs",Hepburn Springs,-37.3168790000,144.1380570000,3461,"Mediterranean, Pizza, Seafood",3,30,4.9,Excellent,340,180
+409,16606021,Stockpot,Tawonga South,"231 Kiewa Valley Hwy, Tawonga South",Tawonga South,-36.7377750000,147.1604390000,03698,"Pizza, Tapas, Modern Australian",2,20,4.9,Excellent,42,15
+410,16604360,The Stanley Pub,Stanley,"6-12 Myrtleford-Stanley Rd, Stanley, Stanley",Stanley,-36.4049360000,146.7536670000,3747,Australian,4,90,4.9,Excellent,61,30
+411,16606229,Otway NouriShed,Ferguson,"3810 Colac-Lavers Hill Rd, Ferguson",Ferguson,-38.6293250000,143.5238820000,03237,"Coffee and Tea, Sandwich",1,7,4.9,Excellent,54,24
+412,16606058,Mount Macedon Hotel,Mount Macedon,"694 Mt Macedon Rd, Mt Macedon, Mount Macedon, Mount Macedon",Mount Macedon,-37.3897352000,144.5959105000,3441,Modern Australian,3,30,4.9,Excellent,95,56
+413,17559675,Superfly Martini Bar & Grill,Brookings,"623 Memory Lane, Brookings 97415",Brookings,42.0492509000,-124.2810096000,97415,"American, Breakfast, Burger",2,25,4.9,Excellent,61,36
+414,16611093,Spice Den,Casuarina,"9 Dianella Dr, Casuarina",Casuarina,-28.2950570000,153.5724900000,02487,Thai,2,20,4.9,Excellent,86,51
+415,16611253,Bernie's Diner,Moss Vale,"402-404 Argyle St, Moss Vale",Moss Vale,-34.5500913000,150.3712602000,2577,"Burger, Diner",1,7,4.9,Excellent,58,33
+416,16604747,Fyansford Hotel,Fyansford,"67 Hyland St, Fyansford",Fyansford,-38.1422630000,144.3100570000,3221,"Bar Food, Modern Australian",2,20,4.9,Excellent,62,33
+417,17350306,Bar-B-Q Bill's,Chiefland,1901 North Young Boulevard 32626,Chiefland,29.4973800000,-82.8682100000,32626,BBQ,1,10,4.9,Excellent,42,25
+418,16605444,King River Cafe,Oxley,"1143 Snow Rd, Oxley",Oxley,-36.4431930000,146.3820330000,3678,Modern Australian,3,30,4.9,Excellent,47,23
+419,16604403,The Corner Hotel,Alexandra,"65 Grant Street, Alexandra",Alexandra,-37.1924360000,145.7098390000,03714,Pub Food,2,20,4.9,Excellent,56,34
+420,16613131,St Bernards Hotel,Mount Tamborine,"101 Alpine Terrace, Mount Tamborine",Mount Tamborine,-27.9687858000,153.1960687000,4272,Modern Australian,3,30,4.9,Excellent,43,27
+421,16606579,Le Peche Gourmand,Creswick,"69a Albert St, Creswick",Creswick,-37.4238470000,143.8943650000,3363,"Coffee and Tea, French",1,7,4.9,Excellent,59,25
+422,17656764,Koffee Kup,Hico,"300 2nd St, Hico 76457",Hico,31.9827397000,-98.0281305000,76457,"Breakfast, Burger, Desserts",1,10,4.9,Excellent,46,23
+423,16604386,Ripples on the Bay,Rippleside,"42 Bell Parade, Rippleside, Rippleside",Rippleside,-38.1277618000,144.3567780000,3220,"Modern Australian, Cafe Food",3,30,4.9,Excellent,95,54
+424,18482498,Tomahawks,Bright,15 Camp St Bright,Bright,0.0000000000,0.0000000000,,Bar Food,4,40,4.9,Excellent,122,67
+425,16612028,The Belle General,East Ballina,"12 Shelly Beach Rd, East Ballina",East Ballina,-28.8626630000,153.5933310000,2478,Cafe Food,2,20,4.9,Excellent,44,27
+426,18487792,Thunder Road Barracuda,"Barracuda Beach Resort, Khor Al Baida","Khor Al Baida, Umm al Quwain",Umm al Quwain,25.5876180000,55.6520860000,,Italian,4,250,4.9,Excellent,100,62
+427,16604999,The Forge Pizzeria,Alfredton,"1771 Sturt St, Alfredton",Alfredton,-37.5507020000,143.8056190000,3350,"Italian, Pizza",2,20,4.9,Excellent,190,71
+428,16606731,Porter Republic,San Remo,"117 Marine Parade, San Remo",San Remo,-38.5206972000,145.3701046000,3925,Modern Australian,2,20,4.9,Excellent,200,119
+429,16605077,The Loaf and Lounge,Camperdown,"223 Manifold St, Camperdown",Camperdown,-38.2316513000,143.1448800000,3260,Coffee and Tea,1,7,4.9,Excellent,41,19
+430,16604773,Parker Pies,Rutherglen,"88 Main St Rutherglen, Rutherglen",Rutherglen,-36.0547680000,146.4608760000,3685,Others,1,7,4.9,Excellent,78,32
+431,16586014,Minamishima,Richmond,"4 Lord Street, Richmond, Melbourne, VIC",Melbourne,-37.8198314176,145.0051938370,3121,"Japanese, Sushi",4,450,4.9,Excellent,747,290
+432,18386758,Hotel Tokas,Neemrana,"NH-8, Delhi - Jaipur Highway, Japanese Zone, Neemrana, Alwar",Neemrana,27.9781597491,76.4006208055,,North Indian,2,800,4.9,Excellent,376,40
+433,16605207,The Harrietville Snowline Hotel,Harrietville,"237 Great Alpine Rd, Harrietville, Harrietville",Harrietville,-36.8937420000,147.0633850000,3741,"Bar Food, Steak",4,60,4.9,Excellent,55,29
+434,16605212,Tahbilk Cafe,Nagambie,"254 Oneils Rd, Nagambie",Nagambie,-36.8267840000,145.0937810000,3608,"Coffee and Tea, Modern Australian",2,20,4.9,Excellent,50,29
+435,16605023,Coffee Cartel,Breakwater,"35 Leather St, Breakwater",Breakwater,-38.1856090000,144.3736480000,3219,"Breakfast, Burger, Coffee and Tea",1,7,4.9,Excellent,120,58
+436,17496199,Velvet Cream,Hernando,"2290 Hwy 51 S, Hernando 38632",Hernando,34.8241000000,-89.9941000000,38632,"Burger, Desserts, Fast Food",1,10,4.9,Excellent,98,31
+437,17669374,Cafe Diablo,Torrey,599 West. Main Street. 84775,Torrey,38.2960760000,-111.4382970000,84775,Southwestern,3,40,4.9,Excellent,55,28
+438,16608736,Goodfellas Cafe,Burnside,"147/152 Bussell Hwy, Margaret River",Burnside,-33.9531670000,115.0736940000,6285,"Italian, Pizza",3,30,4.9,Excellent,88,48
+439,16610069,Grill'd - The Junction,The Junction,"Eastpoint Centre, 50 Glebe Road, The Junction",The Junction,-32.9386180000,151.7609860000,2291,Burger,2,20,4.9,Excellent,70,14
+440,17554599,Click's Steak House,Pawnee,"409 Harrison St, Pawnee 74058",Pawnee,36.3382000000,-96.8012000000,74058,"American, Burger, Steak",2,25,4.9,Excellent,43,16
+441,16606275,The Kangaroo Hotel,Maldon,"89 High St, Maldon",Maldon,-36.9973320000,144.0680870000,3463,Australian,2,20,4.9,Excellent,52,32
+442,18615392,WAKI Japanese BBQ Dining,Thamrin,"Lantai 1, Jl. Tanjung Karang No. 5, Thamrin, Jakarta",Jakarta,-6.2011150000,106.8223000000,,"Japanese, BBQ",3,300000,4.9,Excellent,2932,1414
+443,16604414,Chocolate Mill,Mount Franklin,"5451 Midland Hwy, Mount Franklin",Mount Franklin,-37.2814870000,144.1521300000,3461,Desserts,1,7,4.9,Excellent,111,51
+444,201897,Zuma,DIFC,"Podium Level, Gate Village 6, Sheikh Zayed Road, DIFC, Dubai",Dubai,25.2139531817,55.2836128324,0,"Japanese, Sushi, Salad",4,610,4.9,Excellent,1923,828
+445,17492414,White Grill,Nevada,"200 N Commercial St, Nevada 64772",Nevada,37.8391000000,-94.3491000000,64772,"Burger, Coffee and Tea, Diner",1,10,4.9,Excellent,46,17
+446,17276345,MK's Asian Kitchen,Opelika,"2490 Enterprise Dr, Opelika 36801",Opelika,32.6205650000,-85.4092750000,36801,"Asian, Chinese",1,10,4.9,Excellent,95,38
+447,16607119,Baringo Food & Wine Co.,New Gisborne,"Shop 1 283 Station Rd, New Gisborne",New Gisborne,-37.4593428000,144.5980671000,3438,"Coffee and Tea, Australian",2,20,4.9,Excellent,64,37
+448,16643277,Saigon Moon,Black Diamond,"130 Government Road, Black Diamond T0L0H0",Black Diamond,50.6872963000,-114.2325731000,T0L0H0,"Vietnamese, Beverages",2,25,4.9,Excellent,43,18
+449,16607294,The Winery Kitchen,Seymour,"1 Emily St, Seymour, Seymour",Seymour,-37.0224530000,145.1147290000,3660,"Australian, Desserts, Italian",2,20,4.9,Excellent,62,29
+450,16606526,Elevation 423 Bar & Cafe,Marysville,"41 Murchison St, Marysville",Marysville,-37.5108450000,145.7450260000,3779,"Coffee and Tea, Bar Food, Australian",4,75,4.9,Excellent,80,51
+451,17553244,Wong's Restaurant,Clinton,"712 Opal Ave, Clinton 73601",Clinton,35.5065000000,-98.9687000000,73601,"American, Chinese",1,10,4.9,Excellent,65,22
+452,16608129,Port Elliot Bakery,Port Elliot,"31 North Terrace, Port Elliot",Port Elliot,-35.5306780000,138.6825710000,5212,Others,1,7,4.9,Excellent,96,34
+453,16604764,The Black Spur Inn,Narbethong,"436 Maroondah Highway, Narbethong",Narbethong,-37.5572240000,145.6581270000,3778,Modern Australian,3,30,4.9,Excellent,66,40
+454,16605902,Pik Nik,Swan Bay,"1195 Queenscliff Rd, Swan Bay",Swan Bay,-38.2267968481,144.6351877972,3225,"Coffee and Tea, Desserts, Modern Australian",2,20,4.9,Excellent,108,45
+455,16606711,The Driftwood Cafe,Ocean Grove,"64 The Terrace, Ocean Grove, Ocean Grove",Ocean Grove,-38.2678719000,144.5222505000,3226,Cafe Food,2,20,4.9,Excellent,156,98
+456,17656346,Del Norte,Godley,"101 E Hwy 171, Godley 76044",Godley,32.4485140000,-97.5341830000,76044,"Mexican, Southwestern, Tex-Mex",1,10,4.9,Excellent,50,16
+457,17417691,3rd & Main,Aurora,"223 Third St, Aurora 47001",Aurora,39.0548510000,-84.8994390000,47001,"American, BBQ, Burger",3,40,4.9,Excellent,97,70
+458,16608061,Aquacafe,Goolwa South,"94 Barrage Rd, Goolwa South",Goolwa South,-35.5109680000,138.7828729000,5214,"Coffee and Tea, Seafood",2,20,4.9,Excellent,52,21
+459,17554878,Wild Horse Mountain Bar-B-Que,Sallisaw,"S 4612 Rd, Sallisaw 74955",Sallisaw,35.4058420000,-94.8042870000,74955,BBQ,1,10,4.9,Excellent,77,28
+460,17656118,Mary's Tacos,Kerrville,"1616 Broadway, Kerrville 78028",Kerrville,30.0367920000,-99.1345590000,78028,"Breakfast, Mexican",1,10,4.9,Excellent,60,20
+461,16609855,Margan Restaurant,Broke,"1238 Milbrodale Rd, Broke",Broke,-32.7541230000,151.0956620000,2330,Modern Australian,3,30,4.9,Excellent,51,29
+462,18702883,Landour Bakehouse,Landour,"Shop 152, Sisters Bazaar, Landour Cantt",Mussoorie,30.4568987189,78.1020792201,,"Cafe, Bakery, Desserts",2,500,4.9,Excellent,174,91
+463,16604423,Source Dining,Kyneton,"72 Piper St, Kyneton, Kyneton",Kyneton,-37.2439460000,144.4485630000,,"Modern Australian, Australian",4,100,4.9,Excellent,193,83
+464,16855097,Cafe Citti,Kenwood,"9049 Sonoma Highway, Kenwood 95452",Kenwood,38.4181222222,-122.5502250000,95452,Italian,2,40,4.9,Excellent,58,11
+465,17280355,Dusit Thai Cuisine,Mountain Home,"920 Hwy 62 E, Mountain Home 72653",Mountain Home,36.3487800000,-92.3728150000,72653,"Asian, Thai",1,10,4.9,Excellent,98,46
+466,17218986,Maggie's Town Tavern,Little Falls,"10 Van Ness Ave, Little Falls 07424",Little Falls,40.8805720000,-74.2230000000,07424,"Pizza, Bar Food, Steak",2,25,4.9,Excellent,47,19
+467,16604818,Brandy Creek Wines & View Cafe,Drouin East,"570 Buln Buln Rd, Drouin East",Drouin East,-38.1076200000,145.8977050000,3818,"Spanish, Tapas",2,20,4.9,Excellent,67,38
+468,16609287,Gorges Cafe,Kalbarri,"Shop 6, Marina Complex, Grey Street, Kalbarri",Kalbarri,-27.7021074000,114.1679929000,6536,"Breakfast, Modern Australian",2,20,4.9,Excellent,47,29
+469,16608105,Victory Hotel,Sellicks Beach,"Main South Road, Sellicks Beach",Sellicks Beach,-35.3385390000,138.4643100000,5174,Pub Food,2,20,4.9,Excellent,102,56
+470,17277886,Craig Brothers Cafe,De Valls Bluff,"15 W Walnut, De Valls Bluff 72041",De Valls Bluff,34.7216000000,-91.5348000000,72041,BBQ,1,10,4.9,Excellent,72,20
+471,16608261,The Barn Steakhouse,Mount Gambier,"747 Glenelg River Rd, Mt Gambier, Mount Gambier",Mount Gambier,-37.8195480286,140.6435394287,05290,Steak,2,20,4.9,Excellent,112,56
+472,12200008,Atticus Finch,Rotorua Central,"1106 Tutanekai Street, Rotorua Central, Rotorua 3010",Rotorua,-38.1331260000,176.2517670000,3010,"Mediterranean, European",3,65,4.9,Excellent,66,45
+473,17526921,Thai Spice & Sushi Bar,Albemarle,"1621 East Main Street, Albemarle 28001",Albemarle,35.3505250000,-80.1707630000,28001,"Japanese, Sushi, Thai",1,10,4.9,Excellent,52,26
+474,16605677,Jack Rabbit Restaurant,Bellarine,"85 McAdams Lane, Bellarine",Bellarine,-38.1369474000,144.5940460000,3221,Modern Australian,3,30,4.9,Excellent,161,104
+475,17563040,La Tarasca,Centralia,"1001 W Main St, Centralia 98531",Centralia,46.7187000000,-122.9655000000,98531,Mexican,1,10,4.9,Excellent,121,41
+476,17483280,Clyde's Drive-In,St Ignace,"3 US 2 W, St Ignace 49781",St Ignace,45.8585570000,-84.7195000000,49781,"American, Burger",1,10,4.9,Excellent,68,25
+477,16604836,The Outpost Retreat & Toolshed bar,Noojee,"38 Loch Valley Road, Noojee",Noojee,-37.8911980000,146.0037790000,3833,Bar Food,2,20,4.9,Excellent,48,25
+478,16608088,Maggie Beer's Farm Shop,Nuriootpa,"Maggie Beers Farm End Of Pheasant Farm Rd, Nuriootpa",Nuriootpa,-34.4824980000,138.9747160000,5355,Modern Australian,2,20,4.9,Excellent,258,99
+479,17545658,Toni's Courtyard Cafe & Bakery,Merced,"516 W 18th St, Merced 95340",Merced,37.3024530000,-120.4832000000,95340,"Breakfast, Sandwich",2,25,4.9,Excellent,48,17
+480,16608168,Pipers of Penola,Penola,"58 Riddoch St, Penola",Penola,-37.3797649000,140.8386923000,5277,Modern Australian,3,30,4.9,Excellent,44,20
+481,16605776,du Fermier,Trentham,"42 High Street, Trentham",Trentham,-37.3885278000,144.3220217000,3458,"Coffee and Tea, French, International",2,20,4.9,Excellent,95,47
+482,5601628,Laffah Cafeteria - كافتيريا لفاح,Al Majaz,"Ground Floor, Al Hikma Building, Street 29, Al Majaz, Sharjah",Sharjah,25.3239804487,55.3806075454,,"Fast Food, Arabian, Middle Eastern",1,35,4.9,Excellent,910,369
+483,17410322,The Shanty Restaurant,Wadsworth,"38995 N US Highway 41, Wadsworth 60083",Wadsworth,42.4288000000,-87.9378000000,60083,"American, Burger, Steak",3,40,4.9,Excellent,55,17
+484,16608174,Skillogalee Winery and Restaurant,Spring Gully,"Trevarrick Rd, Sevenhill, Clare Valley, Spring Gully",Spring Gully,-33.9111630000,138.6150360000,5453,Others,3,30,4.9,Excellent,54,27
+485,16607273,Bastoni Pizzeria,Myrtleford,"Entrance On Great Alpine Rd Next To The Myrtleford Piazza, Myrtleford, Myrtleford",Myrtleford,-36.5607870000,146.7247800000,3737,Pizza,2,20,4.9,Excellent,46,28
+486,18692874,60's Beatles Cafe,Tapovan,"Paidal Marg, Laxman Jhula, Tapovan, Rishikesh",Rishikesh,30.1270520312,78.3262113109,,"Cafe, Italian, Continental, North Indian, Asian",2,600,4.9,Excellent,201,104
+487,16609926,Rose's Cafe,Goulburn,"10 Montague St, Goulburn",Goulburn,-34.7544490000,149.7174480000,,"Breakfast, Coffee and Tea",1,7,4.9,Excellent,76,35
+488,16605284,Tomo Modern Japanese,Inverloch,"1/23 A'Beckett Street, Inverloch",Inverloch,-38.6337090000,145.7252810000,3996,Japanese,3,30,4.9,Excellent,95,42
+489,16608060,Appellation,Marananga,"Seppeltsfield Road, Marananga",Marananga,-34.4874960000,138.9465680000,5352,Modern Australian,1,0,4.9,Excellent,97,36
+490,17675919,Up For Breakfast,Manchester Center,"4933 Main St, Manchester Center 05255",Manchester Center,43.1772580000,-73.0561440000,05255,Breakfast,1,10,4.9,Excellent,46,14
+491,16609749,Harvest Cafe,Newrybar,"18 Old Pacific Hwy, Newrybar",Newrybar,-28.7213040000,153.5304410000,2479,Modern Australian,3,30,4.9,Excellent,211,117
+492,16614411,The Green Ant Cantina,Parramatta Park,"183 Bunda Street, Parramatta Park",Parramatta Park,-16.9262790000,145.7705830000,04870,"Mexican, Spanish",3,30,4.9,Excellent,44,13
+493,16605021,Timboon Railway Shed Distillery Restaurant,Timboon,"1 Bailey St, Timboon",Timboon,-38.4842614000,142.9785745000,3268,"Coffee and Tea, Desserts, Modern Australian",2,20,4.9,Excellent,85,50
+494,16647187,From Scratch A Mountain Kitchen,Fairmont Hot Springs,"8 5019 Fairmont Resort Rd, Fairmont Hot Springs",Fairmont Hot Springs,50.3356159000,-115.8543552000,,"American, Pizza, Sandwich",2,25,4.9,Excellent,43,22
+495,17648660,Dairy Bar,Brenham,"2703 Stringer St, Brenham 77833",Brenham,30.1440320000,-96.3815390000,77833,"American, Burger, Desserts",1,10,4.9,Excellent,42,13
+496,16608102,Star of Greece,Port Willunga,"1 The Esplanade, Port Willunga",Port Willunga,-35.2474710000,138.4688260000,5173,"Mediterranean, Seafood, Modern Australian",3,30,4.9,Excellent,164,85
+497,16604911,Bridge Road Brewers,Beechworth,"Old Coach House 50 Ford St, Beechworth, Beechworth",Beechworth,-36.3604390000,146.6858520000,3747,"Pizza, Bar Food",2,20,4.9,Excellent,184,99
+498,16609847,Byblos Restaurant & Bar,Gosford,"124 Donnison St, Gosford",Gosford,-33.4269370000,151.3428800000,2250,Middle Eastern,2,20,4.9,Excellent,46,22
+499,16658461,That Little Place By the Lights,Huntsville,"76 Main St E, Huntsville P1H2B8",Huntsville,45.3270893000,-79.2167492000,P1H2B8,"Coffee and Tea, Desserts, Italian",2,25,4.9,Excellent,63,35
