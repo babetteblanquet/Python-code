@@ -4,13 +4,13 @@
 
 
 CREATE TABLE "employees" (
-    "emp_no" serial   NOT NULL,
-    "emp_title_id" varchar(5)   NOT NULL,
-    "birth_date" varchar   NOT NULL,
-    "first_name" varchar(50)   NOT NULL,
-    "last_name" varchar(50)   NOT NULL,
-    "sex" varchar(1)   NOT NULL,
-    "hire_date" varchar   NOT NULL,
+    "emp_no" SERIAL   NOT NULL,
+    "emp_title_id" VARCHAR(5)   NOT NULL,
+    "birth_date" DATE   NOT NULL,
+    "first_name" VARCHAR(50)   NOT NULL,
+    "last_name" VARCHAR(50)   NOT NULL,
+    "sex" VARCHAR(1)   NOT NULL,
+    "hire_date" DATE   NOT NULL,
     CONSTRAINT "pk_employees" PRIMARY KEY (
         "emp_no"
      )
@@ -18,35 +18,35 @@ CREATE TABLE "employees" (
 
 
 CREATE TABLE "departments" (
-    "dept_no" varchar(4)   NOT NULL,
-    "dept_name" varchar(30)   NOT NULL,
+    "dept_no" VARCHAR(4)   NOT NULL,
+    "dept_name" VARCHAR(30)   NOT NULL,
     CONSTRAINT "pk_departments" PRIMARY KEY (
         "dept_no"
      )
 );
 
 CREATE TABLE "dept_emp" (
-    "emp_no" int   NOT NULL,
-    "dept_no" varchar(4)   NOT NULL,
+    "emp_no" INT   NOT NULL,
+    "dept_no" VARCHAR(4)   NOT NULL,
     PRIMARY KEY (emp_no,dept_no)
 );
 
 CREATE TABLE "dept_manager" (
-    "dept_no" varchar(4)   NOT NULL,
-    "emp_no" int   NOT NULL,
+    "dept_no" VARCHAR(4)   NOT NULL,
+    "emp_no" INT   NOT NULL,
     PRIMARY KEY (dept_no,emp_no)
      )
-);
+;
 
 CREATE TABLE "salaries" (
-    "emp_no" int   NOT NULL,
-    "salaries" int   NOT NULL,
+    "emp_no" INT   NOT NULL,
+    "salaries" INT   NOT NULL,
     PRIMARY KEY (emp_no,salaries)
 );
 
 CREATE TABLE "titles" (
-    "title_id" varchar(5)   NOT NULL,
-    "titles" varchar(30)   NOT NULL,
+    "title_id" VARCHAR(5)   NOT NULL,
+    "titles" VARCHAR(30)   NOT NULL,
     CONSTRAINT "pk_titles" PRIMARY KEY (
         "title_id"
      )
